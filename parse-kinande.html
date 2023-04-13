@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parse sentence</title>
+  <style>
+body, html { height: 100%; }
+* {box-sizing: border-box;}
+main {
+  height: 100%;
+  display: grid;
+  gap:1em;
+  grid-template-columns: 1fr 1fr;
+  
+}
+section {display: grid;}    
+  </style>
+</head>
+<body>
+<header>
+  <h1>Kinande</h1>
+</header>
+
+<main>
+  <section>
+    <textarea class="plaintext"></textarea>
+  </section>
+
+  <section>
+    <textarea class="json"></textarea>
+  </section>
+
+</main>
+
+<script type="module">
+import {
+  parseSentence
+  
+} from './parse-kinande-tiddly.js'
+
+let plaintextTextarea = document.querySelector(".plaintext")
+let jsonTextarea = document.querySelector(".json")
+
+addEventListener("keyup", () => {
+  let plaintext = plaintextTextarea.value
+  let sentence = parseSentence(plaintext)
+  jsonTextarea.value = JSON.stringify(sentence, null, 2) 
+})
+</script>
+
+</body>
+</html>
