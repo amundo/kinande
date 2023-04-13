@@ -9,7 +9,6 @@ let parseSentenceChunks = tiddlyText => {
   let context = chunks[1]
   let prompt = chunks[2]
 
-  // ignore chunks[3]
 
   let interlinear = chunks[4]
   let comments = []
