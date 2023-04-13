@@ -1,3 +1,3 @@
-# Kindande
+# Kinande
 
-Lydia Newkirk’s Kindande research
+Lydia Newkirk’s Kinande research
