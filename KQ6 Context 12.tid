@@ -1,0 +1,25 @@
+created: 20200226005455313
+creator: Lydia
+modified: 20200924202604226
+modifier: Lydia
+tags: [[w- (pfx)]] associative deontic anga [[weak necessity]] [[downward entailing]] contextData [[Kinande Q06: February 19 2020]]
+title: KQ6 Context 12
+tmap.id: feee64e0-b6f8-442a-a6a5-3213e6eaffe3
+type: text/vnd.tiddlywiki
+
+''Context 12:'' No context
+
+''Sentence:'' Should Kabunga read this book?
+
+''Translation:''
+
+Kábunga ninámwana w’angásoma ekitábu ekí kwê?<br>
+Kabunga ni-na-mwana wa a-anga-som-a e-kitabu eki kwe?<br>
+Kabunga COP-TM-child ASSOC SM.c1-MOD-read-FV c7-c7.book c7.this Q<br>
+"Should Kabunga read this book" "is Kabunga a child who should read this book?"
+
+
+ninamundú w’ erisoma ekitábu ekí kwéhi?<br>
+ni-na-mundu wa eri-som-a e-kitabu eki kwehi?<br>
+COP-SM.c1-person ASSOC? inf-read-FV c7-c7.book c7.this Q<br>
+"Is he a person to read this book?"

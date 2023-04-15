@@ -1,0 +1,31 @@
+created: 20200226203647081
+creator: Lydia
+modified: 20200924202622385
+modifier: Lydia
+tags: [[w- (pfx)]] [[relative clause]] circumstantial possibility angana anga [[downward entailing]] contextData [[Kinande Q07: February 22 2020]]
+title: KQ7 Context 06
+tmap.id: e3c89497-ba12-472e-8c14-a7f4b77a09b1
+type: text/vnd.tiddlywiki
+
+''Context 06:'' Some of the children can read, and some cannot. The ones that can are all excited about reading books, and so they all bought books from the market. The ones who can’t read, of course, did not spend their money on books.
+
+''Sentence:'' Every child who can read (a book) bought one from the market
+
+''Translation:''<br>
+óbulí mwana oyó wanganasoma (ekitábú) mwágúlire kitábú kígima omo sóko<br>
+obuli mwana o-yo wa-anga-na-som-a (e-kitabu) mo-a-gul-ire kitabu ki-gima omo soko<br>
+every child AUG.c1-REL SM.c1-MOD-TM-read FV (AUG.c7-c7.book) TM-SM.c1-buy-TM c7.book c7-one at c5.market<br>
+"Every child who can read (a book) bought one book at the market"
+
+More natural option:
+
+óbulí mwana oyó wanganasómá mwágúlire kitábú kígimá ky’omo sóko<br>
+obuli mwana o-yo wa-anga-na-som-a mo-a-gul-ire kitabu ki-gima kyo omo soko<br>
+every c1.child AUG.c1-REL SM.c1-MOD-TM-read-FV TM-SM.c1-buy-TM c7.book c7-one c7.LNK at c5.market<br>
+"Every child who can read bought one book at the market"
+
+
+<nowiki>#</nowiki> óbulí mwaná oyó wabyá ínanganásómá mwágúlire kitábú kígimá ky’omo sóko<br>
+obuli mwana o-yo wa-bi-a i-na-anga-na-som-a mo-a-gul-ire kitabu ki-gima kyo omo soko<br>
+every c1.child AUG.c1-REL SM.c1-be-FV C-SM.c1-MOD-TM-read-FV TM-SM.c1-buy-TM c7.book c7-one c7.LNK at c5.market<br>
+"Every child who should read bought a book at the market"
