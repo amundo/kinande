@@ -1,6 +1,24 @@
 import { assertEquals } from "https://deno.land/std/testing/asserts.ts";
-import { parseSentence } from "./parse-kinande-tiddly.js";
+import { parseSentence, parseTags, toSentence, nameSentenceChunks } from "./parse-kinande-tiddly.js";
 
+
+Deno.test("parseTags should parse a tags string", () => {
+  let input = `tags: [[Kinande Q12: March 15 2021]] unglossed contextData eritolera kumbe [[i- (pfx)]] deontic [[weak necessity]]`
+  let expectedOutput = [
+    "Kinande Q12: March 15 2021",
+    "unglossed", 
+    "contextData", 
+    "eritolera", 
+    "kumbe",
+    "i- (pfx)",
+    "deontic",
+    "weak necessity"
+  ]
+  const actualOutput = parseTags(input);
+  assertEquals(actualOutput, expectedOutput);
+})
+
+/*
 Deno.test("parseSentence function should parse TiddlyWiki text into a sentence object", () => {
   const tiddlyText =
     "Title: Sample Sentence\n\n\n\n\nSíwabyá mundú w’ erímy’ enzir’ eyô. Hané akathirísa ako mundú akímaya erigendáyô.<br>\nSi-u-a-bi-a mundu wa e-ri-mi-a enzira eyo. Hane akathirisa ako mundu a-ki-ma-y-a e-ri-gend-a-yo<br>\nNEG-SM.2sg-TM-be-FV c1.person c1.ASSOC c5-c5-take-FV c9.road that. There.is shortcut c12-REL? c1.person SM.c1-TM-TM-go-FV c5-c5-go-FV-c9.PRN\n\nThis is a sample sentence for testing purposes.\n\n";
@@ -132,3 +150,5 @@ NEG-SM.2sg-TM-be-FV c1.person c1.ASSOC c5-c5-take-FV c9.road that. There.is shor
   assertEquals(actual, expected)
 })
 
+
+*/

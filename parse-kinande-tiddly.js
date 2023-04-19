@@ -70,6 +70,27 @@ let nameSentenceChunks = tiddlyText => {
   }
 }  
 
+let parseTags = tagString => {
+  return tagString
+    .trim()
+    .replaceAll('[[', '\n[[')
+    .replaceAll(']]', ']]\n')
+    .split('\n')
+    .map(token => {
+      if(!token.includes('[[')){
+        token = token.split(' ')
+        return token
+      } else {
+        return token
+          .replaceAll('[[','')
+          .replaceAll(']]','')  
+      }
+    })
+    .flat()
+    .map(tag => tag.trim())
+    .filter(Boolean)
+    .slice(1)
+}
 
 let parseSentence = tiddlyText => {
   let sentenceChunks = nameSentenceChunks(tiddlyText)
@@ -84,4 +105,4 @@ let parseSentence = tiddlyText => {
 }
 
 
-export {parseSentence}
+export {parseSentence, parseTags, toSentence, nameSentenceChunks}
