@@ -1,0 +1,2610 @@
+[
+  {
+    "metadata": {
+      "created": "20200226011937088",
+      "creator": "Lydia",
+      "modified": "20200924202604549",
+      "modifier": "Lydia",
+      "tags": "possibility epistemic [[i- (pfx)]] angana anga [[downward entailing]] negated contextData [[Kinande Q06",
+      "title": "KQ6 Context 15",
+      "tmap_id": "f5b860a7-f4ff-4a2f-96b6-e1ca2d9b832c",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_15": "No context.",
+    "stanza": "Maybe Swera is the one who ate your food, maybe she is not the one who at your food.",
+    "translation": "Swera angabyá íyówalyá ebyályá byagu, ?kútse syángábyá íyówalyá ebyályá byagu.\nSwera a-anga-bi-a i-yo-wa-li-a ebyalya byagu, kutse si-anga-bi-a i-yo-wa-ly-a ebyalya byagu\nSwera SM.c1-MOD-be-FV C-REL-SM.c1-eat-FV food your, or NEG-MOD-be-FV C-REL-SM.c1-eat-FV food your\nIntended: \"Swera can be the one who ate your food, or she can not be the one who ate your food\"\n\nok, but second part very awkward, like a non-native speaker. Better continuations:\n\nkútse anganáby’ isiyê\nkutse a-anga-na-bi-a i-si-ye\nor SM.c1-MOD-TM-be-FV C-NEG-3sg\n\"or it could be not her\"\n\nkútse anganábyá íyutalya ebyályá byagu\nkutse a-anga-na-bi-a i-yu-ta-ly-a ebyalya byagu\nor SM.c1-MOD-TM-be-FV C-REL?-TM?-eat-FV food your\n\"or she can be not the one who ate your food\"\n\n(above also ok but not as good as the other two here; feels like very literal translation)\n\nkútse anganábyá iyútalyábyô\nkutse a-anga-na-bi-a i-yu-ta-li-a-bi-o\nor SM.c1-MOD-TM-be-FV C-REL?-NEG-eat?-FV-be-FV"
+  },
+  {
+    "metadata": {
+      "created": "20200224150104088",
+      "creator": "Lydia",
+      "modified": "20200924202556187",
+      "modifier": "Lydia",
+      "tags": "contextData possibility deontic eripaswa -na- [[Kinande Q06",
+      "title": "KQ6 Context 01",
+      "tmap_id": "e2ea4733-efef-43be-81db-46ab414132f8",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_1": "Másikâ’s teacher told her class that it was ok to go swimming, but Másikâ doesn’t want to go because she cannot swim!",
+    "stanza": "#Másiká anapaswa eriyatsíga\nMasika a-na-pasw-a eri-ya-tsig-a\nMasika SM.c1-TM-must-FV INF-go-swim-FV\n\"Masika must go swimming\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818142412271",
+      "creator": "Lydia",
+      "modified": "20200924202733814",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 03",
+      "tmap_id": "bb7ed2c4-0520-4848-804e-944c685326d2",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_03": "When Kambere attended school, the teachers made him read all the time, even though he didn’t like it. He would do all of the reading that he was supposed to, but he was never happy about how much he had to read. He finally finished school this year, and now he doesn’t have to read books anymore, he can do what he likes. He’s very happy about this (for now).\n\n''Sentence'': #esáhá ábya omo kalhásí, Kámbére ábyá inanganásoma\ne-saha a-bi-a omo kalhasi, Kambere a-bi-a i-na-anga-som-a\naug-c9.time Sm.c1-be-FV at c9.school, Kambere SM.c1-be-FV C-SM.c1-MOD-read-FV\nIntended: \"When he was in school, Kambere was supposed to read\"\n\n\n\n''Phil'': esáhá ábya omo kalhásí, Kámbére ábyá íni mundú  w’eríbug’ ambú ínásóma\ne-saha a-bi-a omo kalhasi, Kambere a-bi-a i-ni mundu wa e-ri-bug-a ambu i-na-som-a\naug-c9.time Sm.c1-be-FV at c9.school, Kambere SM.c1-be-FV c1.person c1.ASSOC AUG-c5-say-FV C C-SM.c1-read-FV\n          \"When he was in school, Kambere was a person about whom it was said he had to read\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818150358402",
+      "creator": "Lydia",
+      "modified": "20200924202735264",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 17",
+      "tmap_id": "6218e0e2-5072-490f-bb8d-2a2711f68884",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_17": "This fruit is more delicious than that fruit.\n\n''Translation'': eritúnd’ erí rísíhiré kutsibú kúlabá riryâ\n       e-ri-tunda eri ri-sih-ire kutsibu ku-lab-a rirya\n      AUG-c5-fruit c5.this c5-be.delicious-TM strongly c15-pass-FV c5.that\n      \"This fruit is more delicious than that one\"\n\n\neritúnd’erí rísíhiré kúlabá riryâ\n       e-ri-tunda eri ri-sih-ire ku-lab-a rirya\n      AUG-c5-fruit c5.this c5-be.delicious-TM c15-pass-FV c5.that\n      \"This fruit is more delicious than that one\""
+  },
+  {
+    "metadata": {
+      "created": "20200909161000029",
+      "creator": "Lydia",
+      "modified": "20200918132546336",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 15",
+      "tmap_id": "4e0c6f6b-60ea-452a-a338-d34df3acaf32",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_15": "Kabunga is taller than 1.70m.",
+    "translation": "Kábunga ni múli erílaba oko 1.70m\nKabunga ni muli e-ri-lab-a oko 1.70.m\nKabunga COP tall AUG-c5-pass-FV PREP 1.70m\n\"Kabunga is taller than 1.70m\"\n\nKábunga ni múlimúli erílaba oko 1.70m\nKabunga ni muli-muli e-ri-lab-a oko 1.70m\nKabunga COP tall-tall AUG-c5-pass-FV PREP 1.70m\n\"Kabunga is taller than 1.70m\"\n\nObúli bwá Kábunga bulábíre oko 1.70m\nO-buli bwa Kabunga bu-lab-ire oko 1.70m\nAUG-c2.tall c2.ASSOC Kabunga SM.c2-pass-TM PREP 1.70m\n\"Kabunga's height exceeds 1.70m\"\n\nKábunga ni múlí, kúlaba 1.70m\nKabunga ni muli ku-lab-a 1.70m\nKabunga COP tall c15-pass-FV 1.70m\n\"Kabunga is tall, more than 1.70m\""
+  },
+  {
+    "metadata": {
+      "created": "20200909150915515",
+      "creator": "Lydia",
+      "modified": "20200909173421572",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 01",
+      "tmap_id": "b350efd6-1dff-4647-bb5f-a9d43708b38c",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_01": "Swera is asking you for advice on how to be successful in life. She of course would rather have a life of leisure, but she’s willing to work hard if that’s what she needs to do to succeed. Of course, the odds of success are a lot higher if you work hard than if you sit around doing nothing. So you tell her:",
+    "stanza": "# wamábug’ uti kúmbé íwabya mundu omo-maísha wawú, wángayitsing’ okomubíri\nu-a-ma-bug-a u-ti kumbe i-u-a-bi-a mundu omo-maisha wawu, u-anga-yitsing-a o-ko-mubiri\nSM.2sg-TM-TM-say-FV SM.2sg-C better.that C-SM.2sg-TM-be-FV c1.person AUG-c18-life 2sg.POSS, SM.2sg-MOD-persevere-FV AUG-c17-work\nIntended: \"if you want to succeed, you should work hard\"",
+    "phil": "wamábug’ uti kúmbé íwabya mundu omo-maísha wawú, íwayítsíng’ okomubíri\nu-a-ma-bug-a u-ti kumbe i-u-a-bi-a mundu omo-maisha wawu,  i-u-a-yitsing-a o-ko-mubiri\nSM.2sg-TM-TM-say-FV SM.2sg-C better.that C-SM.2sg-TM-be-FV c1.person AUG-c18-life 2sg.POSS, C-SM.2sg-TM-persevere-FV AUG-c17-work\n\"If you want to succeed, you should work hard.\""
+  },
+  {
+    "metadata": {
+      "created": "20200226200942784",
+      "creator": "Lydia",
+      "modified": "20200924202622243",
+      "modifier": "Lydia",
+      "tags": "[[downward entailing]] contextData [[Kinande Q07",
+      "title": "KQ7 Context 05",
+      "tmap_id": "4fef141d-db97-4b3d-baad-fba8f71efd83",
+      "type": "text/vnd.tiddlywiki",
+      "''Context,05''": "A group of children have been given flowers to go give out to the women they see, for a special occasion. Each child has one flower, and if the child sees a woman, that child will give her the flower. They’re all good children, and so all of them follow the directions closely."
+    },
+    "stanza": "Every child who saw a woman gave her a flower.",
+    "translation": "óbulí mwana oyó wabandana omúndú mwámúhere eriwâ\nobuli mwana o-yo wa-bandan-a o-mundu mo-a-mu-ha-ire e-ri-wa\nevery child AUG.c1-REL SM.c1-meet-FV AUG.c1-person TM-SM.c1-OM.c1-give-TM AUG.c5-c5-flower\n\"Every child that met someone gave him/her a flower\"\n\nóbulí mwana oyó wabandaná múkalí mwámúhére eriwâ\nobuli mwana o-yo -wa-bandan-a mukali mo-a-mu-ha-ire e-ri-wa\nevery child AUG.c1-REL SM.c1-meet-FV c1.woman TM-SM.c1-OM.c1-give-TM AUG.c5-c5-flower\n\"Every child who met a woman gave her a flower\""
+  },
+  {
+    "metadata": {
+      "created": "20200302172517180",
+      "creator": "Lydia",
+      "modified": "20200924202623271",
+      "modifier": "Lydia",
+      "tags": "angana nga- anga possibility [[strong necessity]] epistemic [[downward entailing]] negated contextData [[Kinande Q07",
+      "title": "KQ7 Context 11",
+      "tmap_id": "c6365c7b-b280-43eb-b552-6c4b5e5cd655",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_11": "We pass by Kambere’s house, and see that his lights are on. But we know that he’s a very forgetful person and maybe he just left his lights on, so we don’t know whether he is home or not.",
+    "stanza": "Kambere doesn’t have to be at home",
+    "translation": "#Kámbere syangaby’ eká yó lino\nKambere si-anga-bi-a eka yo lino\nKambere NEG-MOD-be-FV home PREP now\n\"Kambere can't be home now.\" (can only mean you know he’s not there now, not good as doesn’t have to be home even if contradicting someone)\n\n\ntwasi Kámbere ngane éká?\ntu-asi Kambere nga-ne eka?\nSM.1pl-TM-know Kambere C-COP-LOC home?\n\"do we know whether Kambale is at home?\" (Rhetorical question)\n\n\n\nKámbere anganáby’ éka kútse iyéhe\nKambere a-anga-na-bi-a eka kutse iyehe\nKambere SM.c1-MOD-TM-be-FV home or no\n\"Kambale can be at home or not\"\n\n\nsítwangaminya kámbere ng’ané éka\nsi-tu-anga-miny-a Kambere nga-ne eka\nNEG-SM.1pl-MOD-TM-know-FV Kambere C-COP-LOC home\n\"We can’t know whether Kambale is at home\"\n\n\nTwasí mulí ané éka?\nTu-asi mu-li a-ne eka?\nSM.1pl-TM-know c18?-be SM.c1-COP-LOC home?\n\"Hmmm do we know whether he’s at home?\" (Doubting context for contradicting what interlocutor has said)\n\n\nKambere anganábya ísyâly ékâ\nKambere a-anga-na-bi-a i-si-a-li-e eka\nKambere SM.c1-MOD-TM-be-FV C-NEG-SM.c1-be-SBJ home\n\"it can be that Kambale is not at home\""
+  },
+  {
+    "metadata": {
+      "created": "20200731203307702",
+      "creator": "Lydia",
+      "modified": "20200924202712298",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 13",
+      "tmap_id": "627901ec-8027-4f86-9bd2-bf8a3e4bff29",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_13": "Some celebrities published a list of “1,000 books that everyone should read before they die”. Since then, Swera has been reading the books on that list, and only those books. She intends to read every single book on that list whenever she can get her hands on a copy, but she refuses to spend her time reading anything else.",
+    "stanza": "Swera reads every book that she should read (according to the list).",
+    "translation": "Swera akásomá óbuli kitábu ekyóbakábuga ambú ínásóma (eríkwamaná n’elíste)\nSwera a-ka-som-a obuli kitabu e-kyo-ba-ka-bug-a ambu i-na-som-a (e-ri-kwamana na e-liste)\nSwera Sm.c1-TM-read-FV every c7.book AUG-c7.REL-SM.c2-TM-say-FV C C-SM.c1-read-FV (AUG-c5-according.to PREP AUG-c9.list)\n\"Swera reads every book that they say that she read (according to the list).\""
+  },
+  {
+    "metadata": {
+      "created": "20200731181758140",
+      "creator": "Lydia",
+      "modified": "20200924202707785",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 07",
+      "tmap_id": "eb25765e-0c66-4249-8f7e-f1f39c56ab88",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_07": "Last week, Kabunga was ready to return from Goma to Butembo. Unfortunately, the bus had broken down at that point, and so Kabunga had to hire someone to drive him to Butembo.",
+    "stanza": "Kabunga had to take a car to Butembo.",
+    "phil": "No",
+    "follow-up_question": "Would that sentence be ok if Kabunga couldn’t find someone to drive him? For example even though taking a car was the way he needed to get to Butembo, he wound up stuck in Goma and couldn’t go to Butembo at all. Is the sentence still ok in that sort of situation?"
+  },
+  {
+    "metadata": {
+      "created": "20200924203650795",
+      "creator": "Lydia",
+      "modified": "20200929193532731",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 05",
+      "tmap_id": "e5aefb21-20f3-4005-8377-5d2de74f1bf6",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_05": "You are shopping for books for school, and one of the workers at the bookstore is helping you find the books you need. As you are walking past a shelf of books, the worker picks up a book and explains that it frequently sells out, so if it’s one of the books you are supposed to read, you should buy it today while they still have stock. You could probably get by in the class without it, but you’re more likely to do well if you have this book.",
+    "stanza": "wamábyá íwanganásóm’ekitábw’ ekí ky’ekalhási, kúmbé íwakígúlá munábwíre\nu-a-ma-bi-a i-u-anga-na-som-a e-kitabu eki kyo ekalhasi, kumbe i-u-a-ki-gul-a munabwire\nSM.2sg-TM-TM-be-FV C-SM.2sg-MOD-TM-read-FV AUG-c7.kitabu c7.this PREP class, better.that C-SM.2sg-TM-Om.c7-buy-FV today\n\"if you should read this book for school, you should buy it today\"\n\nPhil: OK"
+  },
+  {
+    "metadata": {
+      "created": "20200924205015776",
+      "creator": "Lydia",
+      "modified": "20200924205104909",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 11",
+      "tmap_id": "ac87f5e9-82b3-45ca-8ac1-762d6640b9f5",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_11": "Masika doesn’t like swimming, but for gym class, the teacher says that she should swim today for exercise, because it would be good for her.",
+    "stanza": "omugalímu mwábúyíre ati Másiká anganátsíga (the teacher says that Masika ought to swim today)",
+    "phil": "OK. However, note the tone. The sentence here will end with a mid tone.\n                 omugalímu mwábúyíre ati Másiká anganátsígA.   (here the last vowel has a mid tone)"
+  },
+  {
+    "metadata": {
+      "created": "20200924204907585",
+      "creator": "Lydia",
+      "modified": "20200924205012687",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 10",
+      "tmap_id": "adbd0e33-c52e-43a6-b356-959a0120cc27",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_10": "You and Masika are working on a class plan for assigning books to students. The students all have different reading levels, so you’re trying to make sure that you assign the books properly to each student according to the ability. Masika tentatively puts down a book for Kabunga, but you think it’s too advanced for him to read at this point, so you say:",
+    "stanza": "Kabunga can’t read this book, we have to assign it to someone else.",
+    "translation": "Kábunga syályábyá w’erisom’ekitábw’eki. Tunapásw’eríkíhá wundi múndu."
+  },
+  {
+    "metadata": {
+      "created": "20200924203505144",
+      "creator": "Lydia",
+      "modified": "20200929194302112",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 04",
+      "tmap_id": "d2b9ee30-40d4-48fe-8ed5-961f7827c485",
+      "type": "text/vnd.tiddlywiki",
+      "Context,04": "Kambere is telling you about how long his drive to work was, and how bad the traffic was. You eventually find out that he took one of the longest and busiest roads to the office, and he could’ve taken a much shorter, less traffic-filled path. You say"
+    },
+    "stanza": "You shouldn’t have taken that road, there is a shorter way to get here.",
+    "translate": "Síwabyá mundú w’ erímy’ enzir’ eyô. Hané akathirísa ako mundú akímaya erigendáyô.\nSi-u-a-bi-a mundu wa e-ri-mi-a enzira eyo. Hane akathirisa ako mundu a-ki-ma-y-a e-ri-gend-a-yo\nNEG-SM.2sg-TM-be-FV c1.person c1.ASSOC c5-c5-take-FV c9.road that. There.is shortcut c12-REL? c1.person SM.c1-TM-TM-go-FV c5-c5-go-FV-c9.PRN\n\"You shouldn't have taken that road. There is a shortcut that you could have taken.\"\n\n(akathirísa = shortcut)"
+  },
+  {
+    "metadata": {
+      "created": "20200731181130846",
+      "creator": "Lydia",
+      "modified": "20200924202707526",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 06",
+      "tmap_id": "8a0eef2a-38d1-4d11-816b-199f03039928",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_06": "Two weeks ago, Kabunga needed to get from Butembo to Goma so that he could greet a friend of his. For a few days when he was planning, Kabunga wasn’t sure whether he would make it to the bus station on time after his other errands, but he manages to catch his bus to Goma.",
+    "stanza": "Kabunga was able to take a bus to Goma.",
+    "translation": "Kábunga mwásálíré ín’ímya ebísí y’eGómâ\nKabunga mo-a-sal-ire i-na i-my-a e-bisi ya e-Goma\nKabunga TM-SM.c1-climb-PFV C-take-FV c9-bus go c24-Goma\n\"Kabunga took a bus to Goma\"",
+    "follow-up_questions": "Would that sentence be acceptable in a context where Kabunga was able to take the bus (he had the time and money for it), but he decides to drive there instead?\nPhil: No. \n\nAnd what about if he decides to stay at home and not go to Goma after all?\nPhil: No"
+  },
+  {
+    "metadata": {
+      "created": "20200731201738393",
+      "creator": "Lydia",
+      "modified": "20200924202711418",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 12",
+      "tmap_id": "19f0b400-b513-49a0-acd1-907c12586642",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_12": "We pass by Kambere’s house and see that his light is on. That might mean that he’s at home (Kámbére anganáby’ékâ), but sometimes he’s forgetful and leaves his light on, so we’re not sure. As we get closer to his house, we also hear voices coming from inside the house. We can’t identify that it’s Kambere’s voice for sure, but it seems all the more likely that he is at home. So I say:",
+    "stanza": "(Since we hear voices from inside the house,) now it’s more likely that Kambere is at home.",
+    "translation": "(kundi tunámów’emírengé y’omonyúmbá), mbíno léro Kámbére akándibyá ínian’ékâ\nkundi tu-na-mow-a e-mi-renge ya o-mo-nyumba, mbino lero Kambere a-ka-ndi-bi-a i-ni-a-ne eka\nbecause SM.1pl-TM-hear-FV AUG-c4-voice ASSOC AUG-c18-house maybe this.time Kambere SM.c1-TM-TM-be-FV C-COP-Sm.c1?-LOC home\n\"Because we are hearing voices in the house), maybe at-least-for-this-time Kambere will be that he is at home.\""
+  },
+  {
+    "metadata": {
+      "created": "20200302163123254",
+      "creator": "Lydia",
+      "modified": "20200924202623084",
+      "modifier": "Lydia",
+      "tags": "[[w- (pfx)]] associative eripaswa [[i- (pfx)]] kumbe -na- angana anga possibility deontic [[-e (sfx)]] contextData [[Kinande Q07",
+      "title": "KQ7 Context 10",
+      "tmap_id": "e31cef1c-f04b-4d05-b1ba-4a679d5de162",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_10": "On behalf of your friend Masika, you ask the teacher if she should go swimming. The teacher replies:",
+    "stanza": "Yes, Masika should go swimming (ihíií, Másikâ anganáyatsíga), and in fact she must",
+    "translation": "ihíií, Másiká anganáyatsíga… \nihiii, Masika a-anga-na-ya-tsig-a\nyes, Masika SM.c1-MOD-TM-go-swim-FV\n\"Yes, Masika can go swimming...\"\n\n …níbyá ni mundú w’eriyatsíga\n...ni-bi-a ni mundu w-eri-ya-tsig-a\nCOP-be-FV COP c1.person ASSOC?-INF-go-swim-FV\n\"...in fact she is a person to swim → she has to\"\n\n…Kúmbe áyátsíge\n...kumbe a-ya-tsig-e\n...better.that SM.c1-go-swim-SBJ\n\"She really should swim\"",
+    "consultant_note": "stronger than kúmbe íyátsíga, which seems too weak for this context.\n\n#kúmbe ínáyátsíga\nkumbe i-na-ya-tsig-a\nbetter.that C-go-swim-FV\n\"she should go swmming\"\n\n….níbyá anapáswa eriyatsíga\n....ni-bi-a a-na-pasw-a eri-ya-tsig-a\nCOP-be-FV SM.c1-TM-must-FV INF-go-swim-FV\n\"in fact she must swim\""
+  },
+  {
+    "metadata": {
+      "created": "20200226194352626",
+      "creator": "Lydia",
+      "modified": "20200924202622113",
+      "modifier": "Lydia",
+      "tags": "negated contextData [[Kinande Q07",
+      "title": "KQ7 Context 04",
+      "tmap_id": "c9a0757d-f48d-4079-87d7-9bf69832e67f",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_04": "No context",
+    "stanza": "The teacher didn’t say that any woman went swimming",
+    "translation": "*Omugalímu mwátétábuga ati múkali ayatsiga\nO-mugalimu mo-a-te-ta-bug-a a-ti mukali a-ya-tsig-a\nAUG.c1-c1.teacher TM-SM.c1-TM.NEG-TM.NEG-say-FV SM.c1-C c1.woman SM.c1-go-swim-FV\nIntended: \"The teacher didn't say that any woman went swimming.\"\n\nOmugalímu mwátétábuga ati halí múkali wáyatsigâ\nO-mugalimu mo-a-te-ta-bug-a a-ti ha-li mukali w-a-ya-tsig-a\nAUG.c1-teacher TM-SM.c1-TM.NEG-TM.NEG-say-FV SM.c1-C c16-be c1.woman REL.c1-TM-go-swim-FV\n\"The teacher didn't say that there is a woman who went swimming.\""
+  },
+  {
+    "metadata": {
+      "created": "20200909160841145",
+      "creator": "Lydia",
+      "modified": "20200918124132849",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 14",
+      "tmap_id": "277d8992-6b0b-4aa9-b929-3cf707d03e74",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_14": "Kabunga is 8cm taller than Kambere is.",
+    "translation": "Kábunga ni múly’ oko Kámbéré ko 8cm\nKabunga ni muli oko Kambere ko 8cm\nKabunga COP tall PREP Kambere PREP 8cm\n\"Kabunga is taller than Kambere by 8cm\"\n\nKábunga alabíry’ oko Kámbéré ko 8cm oko búli\nKabunga a-lab-ire oko Kambere ko 8cm oko buli\nKabunga SM.c1-pass-TM PREP Kambere PREP 8cm PREP tall\n\"Kabunga is 8cm taller than Kambere\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818145711457",
+      "creator": "Lydia",
+      "modified": "20200924202735165",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 16",
+      "tmap_id": "5238d836-c9d8-4c60-93ec-f4e980dab147",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_16": "What does Swera have to cook?",
+    "translation": "Swera akándíbyá ínakándíhukáki kwê\nSwera a-ka-ndi-bi-a i-na-ka-ndi-huk-a-ki kwe\nSwera SM.c1-TM-TM-be-FV C-SM.c1-TM-TM-cook-FV-c7.Q Q\n\"What does Swera have to cook?\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818142125362",
+      "creator": "Lydia",
+      "modified": "20200924202733532",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 02",
+      "tmap_id": "3af89c6b-4f7d-4b30-b5c0-9572383ca1ec",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_02": "Swera is asking you for advice on how to be successful in life. She of course would rather have a life of leisure, but she’s willing to work hard if that’s what she needs to do to succeed. Of course, the odds of success are a lot higher if you work hard than if you sit around doing nothing. So you tell her:",
+    "translate": "If you want to succeed, you should work hard.\n\n''Phil'': wamábug’ uti kúmbé íwabya mundu omo-maísha wawú, kúmbé íwáyitsing’ okomubíri\nu-a-ma-bug-a u-ti kumbe i-u-a-bi-a mundu o-mo-maisha wawu, kumbe i-u-a-yitsing-a o-ko-mubiri\nSM.2sg-TM-TM-say-FV SM.2sg-C better.that C-SM.2sg-TM-be-FV c1.person AUG-c18-life 2sg.POSS, better.that C-SM.2sg-TM-persevere-FV AUG-c17-work\n\"If you say that you would like to be a person in your life, it is better that you persevere (work hard) on the work\""
+  },
+  {
+    "metadata": {
+      "created": "20200226011513842",
+      "creator": "Lydia",
+      "modified": "20200924202604426",
+      "modifier": "Lydia",
+      "tags": "-na- angana anga deontic [[downward entailing]] negated [[weak necessity]] contextData [[Kinande Q06",
+      "title": "KQ6 Context 14",
+      "tmap_id": "5ea81aef-0c57-4948-8325-68e3502e0b2c",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_14": "No context",
+    "stanza": "The teacher didn't say that Masika can/should swim",
+    "translation": "omugalímu mwátétábuga ati Másiká anganátsíga\nomugalimu mo-a-te-ta-bug-a a-ti Masika a-anga-na-tsig-a\nc1.teacher TM-SM.c1-TM.NEG-TM.NEG-say-FV SM.c1-that Masika SM.c1-MOD-TM-swim-FV\n\"The teacher didn't say that Masika can/should swim\""
+  },
+  {
+    "metadata": {
+      "created": "20200224150756716",
+      "creator": "Lydia",
+      "list": "",
+      "modified": "20200924202558977",
+      "modifier": "Lydia",
+      "tags": "[[downward entailing]] contextData ambu -na- negated [[strong necessity]] anga [[Kinande Q06",
+      "title": "KQ6 Context 02",
+      "tmap_id": "cd62877f-7973-4237-982e-42e5877abc82",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_2": "Kabunga often plays football with his friends, but today he is tired and doesn’t want to play. One of his friends tells him that it’s ok, he doesn’t have to play today if he doesn’t want to:",
+    "stanza": "#sí wangasáta\nsí-u-anga-sat-a\nNEG-SM.2sg-MOD-dance-FV\nIntended:  \"you don’t have to play\"\n\ninfelicitous. Better is:\n\nsí babúgíre ambu mupaka unásate\nsí-ba-búg-íre ambu mupaka u-na-sat-e\nNEG-SM.c2-say-TM that MUST SM.2sg-TM-dance-SBJ\n\"they don’t say that you are obligated to play\"\n\nsí babúgíre ambu útanétasáta\nsi-ba-bug-ire ambu u-ta-ne-ta-sat-a\nNEG-SM.c2-say-TM that SM.2sg-TM-TM-NEG?-dance-FV\n\"They don't say that you have to play\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818145530394",
+      "creator": "Lydia",
+      "modified": "20200924202734973",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 14",
+      "tmap_id": "f115631d-20d5-44f7-a4ab-8c625b306b2f",
+      "type": "text/vnd.tiddlywiki",
+      "''Sentence,14''": "What did Swera cook?"
+    },
+    "translation": "ékihi kyo Swer’ályáhukáaá\ne-ki-hi ki-yo Swera a-li-a-huk-a -aa\nAUG-c7-{{what?||hlo}} c7-REL Swera SM.c2-TM-TM-cook-FV Q\n\"What did Swera cook?\"\n\nSwer’ ályáhukáki\nSwera a-li-a-huk-a-ki\nSwera SM.c1-TM-TM-cook-FV-c7\n\"What did Swera cook?\"\n\nNíki kyo Swerá ályáhukáaá.\nNi-ki ki-o Swera a-li-a-huk-a-aa\nCOP-c7 c7-REL Swera SM.c1-TM-TM-cook-FV-Q\n\"What did Swera cook?\" (Best as an echo question)\n\nKwé Swera ályáhukákí munábwíre\nKwe Swera a-li-a-huk-a-ki munabwire\nQ Swera SM.c1-TM-TM-cook-FV-c7 today\n\"What did Swera cook today?\""
+  },
+  {
+    "metadata": {
+      "created": "20200909151406254",
+      "creator": "Lydia",
+      "modified": "20200909174207682",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 02",
+      "tmap_id": "087a3440-1402-4c92-a624-a6e126b60ff9",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_02": "When Kambere attended school, his teacher always told him that he should read a lot. Kambere hated reading though, and so he often didn’t do as he was supposed to. He never got into much trouble for this, so it clearly wasn’t a very big problem for the teachers. Now he has graduated from school, and he doesn’t have to read anymore. He’s very happy about this, since he hates reading so much.",
+    "stanza": "#esáhá ábya omo kalhásí, Kámbére ábyá inanganásoma\ne-saha a-bi-a omo kalhasi, Kambere a-bi-a i-na-anga-na-som-a\nAUG-c9.time SM.c1-be-FV at c9.school, Kambere SM.c1-be-FV C-SM.c1-MOD-TM-read-FV\nIntended: \"When he was in school, Kambere was supposed to read\"",
+    "phil": "esáhá ábya omo kalhásí, Kámbére ábyá ínangásóma\ne-saha a-bi-a omo kalhasi, Kambere a-bi-a i-na-anga-som-a\nAUG-c9.time SM.c1-be-FV at c9.school, Kambere SM.c1-be-FV C-SM.c1-MOD-read-FV\nIntended: \"When he was in school, Kambere was supposed to read\""
+  },
+  {
+    "metadata": {
+      "created": "20200909161125730",
+      "creator": "Lydia",
+      "modified": "20200918133258917",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 16",
+      "tmap_id": "6e2e384a-3242-437c-a06f-e7f685df4d40",
+      "type": "text/vnd.tiddlywiki",
+      "Sentence,16": "Masika is very much able to read this book.",
+      "Translation": ""
+    }
+  },
+  {
+    "metadata": {
+      "created": "20200302174946087",
+      "creator": "Lydia",
+      "modified": "20200924202626692",
+      "modifier": "Lydia",
+      "tags": "circumstantial [[weak necessity]] [[i- (pfx)]] -na- kumbe eripaswa contextData [[Kinande Q07",
+      "title": "KQ7 Context 12",
+      "tmap_id": "39e30920-fa66-490f-b51b-2ccd70333315",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_12": "Kanyerê is still learning how to ride a motor bike. She just started 1 month ago. Her friend tells her that...",
+    "stanza": "Kanyere ought to drive slowly",
+    "translation": "??Kanyeré anapáswa erigendyá bolóbólo\nKanyere a-na-pasw-a eri-gend-i-a bolobolo\nKanyere SM.c1-TM-must-FV INF-go-TV-FV slowly\n\"Kanyere must drive slowly.\"",
+    "consultant_comment": "seems like an order rather than advice. Prefer kumbe:\n\nKúmbe Kanyeré ínabyá ákagendya bolobolo\nKumbe Kanyere i-na-bi-a a-ka-gend-i-a bolobolo\nbetter.that Kanyere C-TM-be-FV SM.c1-TM-go-TV-FV slowly\n\"it is better for Kanyere to drive slowly\""
+  },
+  {
+    "metadata": {
+      "created": "20200226203647081",
+      "creator": "Lydia",
+      "modified": "20200924202622385",
+      "modifier": "Lydia",
+      "tags": "[[w- (pfx)]] [[relative clause]] circumstantial possibility angana anga [[downward entailing]] contextData [[Kinande Q07",
+      "title": "KQ7 Context 06",
+      "tmap_id": "e3c89497-ba12-472e-8c14-a7f4b77a09b1",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_06": "Some of the children can read, and some cannot. The ones that can are all excited about reading books, and so they all bought books from the market. The ones who can’t read, of course, did not spend their money on books.",
+    "stanza": "Every child who can read (a book) bought one from the market",
+    "translation": "óbulí mwana oyó wanganasoma (ekitábú) mwágúlire kitábú kígima omo sóko\nobuli mwana o-yo wa-anga-na-som-a (e-kitabu) mo-a-gul-ire kitabu ki-gima omo soko\nevery child AUG.c1-REL SM.c1-MOD-TM-read FV (AUG.c7-c7.book) TM-SM.c1-buy-TM c7.book c7-one at c5.market\n\"Every child who can read (a book) bought one book at the market\"\n\nMore natural option:\n\nóbulí mwana oyó wanganasómá mwágúlire kitábú kígimá ky’omo sóko\nobuli mwana o-yo wa-anga-na-som-a mo-a-gul-ire kitabu ki-gima kyo omo soko\nevery c1.child AUG.c1-REL SM.c1-MOD-TM-read-FV TM-SM.c1-buy-TM c7.book c7-one c7.LNK at c5.market\n\"Every child who can read bought one book at the market\"\n\n\n# óbulí mwaná oyó wabyá ínanganásómá mwágúlire kitábú kígimá ky’omo sóko\nobuli mwana o-yo wa-bi-a i-na-anga-na-som-a mo-a-gul-ire kitabu ki-gima kyo omo soko\nevery c1.child AUG.c1-REL SM.c1-be-FV C-SM.c1-MOD-TM-read-FV TM-SM.c1-buy-TM c7.book c7-one c7.LNK at c5.market\n\"Every child who should read bought a book at the market\""
+  },
+  {
+    "metadata": {
+      "created": "20200731172950390",
+      "creator": "Lydia",
+      "modified": "20200924202706408",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 04",
+      "tmap_id": "5d7884ef-5c7d-4210-924a-5487b778c507",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_04": "Right now Swera is a little child and she doesn’t know how to read yet. But I’m planning on teaching her to read, and so to encourage her I say:",
+    "stanza": "Now you can’t read, but soon you will be able to read.",
+    "translation": "linó, súlí wábyá w’ erisóma. Úliwé, ukisíyá íwabyá w’ eritok’ erisóma\n         Now, you are not (a person) to read. However, you are about to be able to read\n\tlino Si-u-li u-a-by-a wa e-ri-som-a   u-li-we  u-ki-sig-i-a i-u-a-bi-a wa e-ri-tok-a e-ri-som-a\n         Now Neg-2nd-be 2nd-TM-be-fv ASSOC AUG-c5-read-FV however 2nd-TM-leave-CAUS-FV C-SM.2sg-TM-be-FV ASSOC AUG-c5-succeed-FV AUG-c5-read-FV"
+  },
+  {
+    "metadata": {
+      "created": "20200731200632004",
+      "creator": "Lydia",
+      "modified": "20200924202708175",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 10",
+      "tmap_id": "f9b8db3a-d342-4fc3-83d1-59ed520d3d3c",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_10": "It is more important for you to eat well than for you to exercise.",
+    "translation": "ókw’iwe eríryá ndeké rilábíre eríbyá úkayikakyâ \noko-iwe e-ri-ry-a ndeke ri-lab-ire e-ri-bi-a u-ka-yi-kaki-a\nfor-2sg AUG-c5-eat-FV well c5-pass-TM AUG-c5-be-FV SM.2sg-TM-RFM-stretch-FV\n\"For you, to eat well passes to be that you stretch yourself.\""
+  },
+  {
+    "metadata": {
+      "created": "20200924205103933",
+      "creator": "Lydia",
+      "modified": "20200924205152332",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 12",
+      "tmap_id": "100fc1a4-d158-401f-b591-1eab92a337be",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_12": "When Kambere attended school, the teachers tried to make him read all the time, even though he didn’t like it. Mostly he avoided reading anything, and just tried to get through school without reading any of the books he was supposed to. He finally finished school this year, and now he doesn’t have to read books anymore, he can do what he likes. He’s very happy about this (for now).",
+    "stanza": "esáhá ábya omo kalhásí, Kámbére ábyá inanganásoma",
+    "phil": "esáhá ábya omo kalhásí, Kámbére ábyá inanganáyírá ínásóma"
+  },
+  {
+    "metadata": {
+      "created": "20200924203915695",
+      "creator": "Lydia",
+      "modified": "20200929193037614",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 06",
+      "tmap_id": "a59f7d24-41f4-4e0e-948b-3de8314d5368",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_06": "Kambere is asking you for advice on how to be successful in life. You’re not sure this is such a fantastic goal to have, and that maybe he should focus on doing good for others, even if that’s at the cost of his own success. But he insists he wants to be a successful person, so you tell him:",
+    "stanza": "#wamábug’uti kúmbé íwabya mundu omo-maísha wawú, wángayitsing’okomubíri\nu-a-ma-bug-a u-ti kumbe i-u-a-bi-a mundu omo-maisha wawu, u-anga-yitsing-a o-ko-mubiri\nSM.2sg-TM-TM-say-FV SM.2sg-C better.that C-SM.2sg-TM-be-FV c1.person AUG-c18-life 2sg.POSS, SM.2sg-MOD-persevere-FV AUG-c17-work \nIntended: \"if you want to succeed, you should work hard\"",
+    "phil": "wamábug’ uti kúmbé íwabya mundu omo-maísha wawú, kúmbé íwáyitsing’ oko-mubíri\nu-a-ma-bug-a u-ti kumbe i-u-a-bi-a mundu omo-maisha wawu, kumbe i-u-a-yitsing-a o-ko-mubiri\nSM.2sg-TM-TM-say-FV SM.2sg-C better.that C-SM.2sg-TM-be-FV c1.person AUG-c18-life 2sg.POSS, better.that C-SM.2sg-TM-persevere-FV AUG-c17-work\n\"If you want to succeed, you should work hard.\""
+  },
+  {
+    "metadata": {
+      "created": "20200924204104108",
+      "creator": "Lydia",
+      "modified": "20200924204224807",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 07",
+      "tmap_id": "7d64740d-9750-419d-9d11-e69174e407ef",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_07": "Kambere is hosting a potluck party, and putting very unreasonable demands on who should bring what dish. For example, he insists that Swera has to cook and bring ekihembe, and she doesn’t even like making that dish. You try to tell Kambere that he’s being unreasonable, and say on behalf of Swera:",
+    "stanza": "Swera doesn’t have to cook ekihembe, she can cook whatever she likes.",
+    "translation": "Síbabúyír’ambu mupáka Swerá átanétáhuk’ekihémbê. Anganáhuka ebyályá ni byályâ."
+  },
+  {
+    "metadata": {
+      "created": "20200731201305234",
+      "creator": "Lydia",
+      "modified": "20200924202708278",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 11",
+      "tmap_id": "a11bb2c6-efc9-4b2e-9a44-6179a8bdb674",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_11": "It’s more likely that it will rain today than that it will be sunny.",
+    "translation": "obútukú bwámásosá émbulá ng’ikándiwá munábwíré kúlabá ómwisí ng’angakola\no-bu-tuku bu-a-ma-sos-a e-mbula nga i-ka-ndi-w-a munabwire ku-laba o-mu-isi nga a-anga-kol-a\nAUG-c14-weather SM.c14-TM-TM-resemble-FV c14-rain C C-TM-TM-fall-FV today c15-pass AUG-c1-sun C SM.c1-MOD-shine-FV\n\"The weather looks the rain as if it will rain today more than the sun as if it will shine.\""
+  },
+  {
+    "metadata": {
+      "created": "20200731180241417",
+      "creator": "Lydia",
+      "modified": "20200924202706524",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 05",
+      "tmap_id": "4cdce59b-368c-4e6e-abc5-6635eb8c91f1",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_05": "Kambere has decided to go back to school for an advanced degree. Unfortunately for him, that means that he will have to start reading again. He’s not looking forward to that part.",
+    "stanza": "Kambere doesn’t have to read now, but soon he will have to read.",
+    "translation": "Kámbére syályábyá w’erisomá linô, áliyé akisíg’ ínáhík’ oko-lubó lw’eríbyá ákasóma\nKambere si-a-li-a-bi-a wa e-ri-som-a lino, a-liye a-ki-sig-a i-na-hik-a oko-lubo lu-a e-ri-bi-a a-ka-som-a\nKambere NEG-SM.c2-be-TM-be-FV ASSOC AUG-c5-read-FV now, SM.c1-however SM.c1-TM-leave C-SM.c1-arrive-FV c17-{{??||hlg}} {{erilwe?||hlg}} AUG-c5-be-FV SM.c1-TM-read.FV\n\"Kambere does not have to read now, however soon he will have to read.\""
+  },
+  {
+    "metadata": {
+      "created": "20200226212208606",
+      "creator": "Lydia",
+      "modified": "20200924202622486",
+      "modifier": "Lydia",
+      "tags": "contextData [[i- (pfx)]] deontic anga angana [[weak necessity]] [[downward entailing]] [[Kinande Q07",
+      "title": "KQ7 Context 07",
+      "tmap_id": "287a6a8c-96ff-42c9-82fe-87ca3584df24",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_07": "The schoolchildren are all supposed to read a book sometime this month. Some of the children were good and did their reading last week. Some of them haven’t done their reading yet, and so they still should read a book, so those children went to the market and bought one to read.",
+    "stanza": "Every child who should read a book bought one from the market",
+    "translation": "óbulí mwaná oyó wabyá ínanganásómá mwágúlire kitábú kígimá ky’omo sóko\nobuli mwana o-yo wa-bi-a i-na-anga-na-som-a mo-a-gul-ire kitabu ki-gima kyo omo soko\nevery c1.child AUG.c1-REL SM.c1-be-FV C-SM.c1-MOD-TM-read-FV TM-SM.c1-buy-TM c7.book c7-one c7.LNK at c5.market\n\"Every child who should read bought a book at the market\""
+  },
+  {
+    "metadata": {
+      "created": "20200302175840538",
+      "creator": "Lydia",
+      "modified": "20200924202626857",
+      "modifier": "Lydia",
+      "tags": "-na- [[weak necessity]] teleological eripaswa contextData [[Kinande Q07",
+      "title": "KQ7 Context 13",
+      "tmap_id": "44aad7f4-9767-4a03-8f2a-324d96657e46",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_13": "There are two ways to get from Entebbe to Kampala: You can take the Kampala-Entebbe expressway or the Kampala-Entebbe road. The expressway is faster, so according to Kambale:",
+    "stanza": "If you want to get to Kampala, you should take the expressway.",
+    "translation": "??Wamasond’eriy’eKampálá, unapaswa erimy’ekisipirése\nu-a-ma-sond-a eri-ya e-Kampala, u-na-pasw-a eri-mi-i-a ekisipirese\nSM.2sg-TM-TM-want-FV INF-go c24-Kampala, SM.c2g-TM-must-FV INF-take expressway\n\"If you want to go to Kampala, you must take the expressway\"",
+    "consultant_note": "weird, like you are not giving the other option that's available."
+  },
+  {
+    "metadata": {
+      "created": "20200909161417595",
+      "creator": "Lydia",
+      "modified": "20200921141412584",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 17",
+      "tmap_id": "22c525c0-0c3a-4a18-9266-766e36009018",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_17": "It is much more important for you to eat well than for you to exercise.",
+    "translation": "lítólere kúmbé íwalyá ndeké kúlaba eríbyá úkayikakya emíki\nli-tolere kumbe i-u-a-li-a ndeke ku-laba e-ri-bi-a u-ka-yikaky-a emiki\nc5-fit better.that C-SM.2sg-TM-eat-FV well c15-pass AUG-c5-be-FV SM.2sg-TM-stretch.self-FV {{???||hlo}}\n\"It is much better for you to eat well than for you to exercise\""
+  },
+  {
+    "metadata": {
+      "created": "20200909151955830",
+      "creator": "Lydia",
+      "modified": "20200910135538466",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 03",
+      "tmap_id": "dce780ed-c1d8-4fc8-b713-ec743c8b17fb",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_03": "Kambale regularly eats dinner at Swera’s restaurant. He never misses a day, even when he is sick. It’s not obligatory for Kambale, he just goes for dinner there every day. It’s dinner time now, so…",
+    "stanza": "#Kumbe Kámbale anabye éyiry’ erestorá ya Swera\nKumbe Kambale a-na-bi-e e-yi-ri-a e-restora ya Swera\nbetter.that Kabmale SM.c1-TM-be-SBJ AUG-c24-be c24-restaurant ASSOC Swera\nIntended: \"Kambale must be at Swera’s restaurant\"",
+    "phil": "Ngero Kámbale ané éyiry’ erestorá ya Swera\nNgero Kambale a-ne e-yi-ri-a e-restora ya Swera\nprobably Kambale SM.c1-LOC AUG-c24-be-FV c24-restaurant ASSOC Swera\n\"Probably Kambale is at Swera's restaurant.\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818141317972",
+      "creator": "Lydia",
+      "modified": "20200924202732896",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 01",
+      "tmap_id": "338b59e5-9a3e-445f-8306-cb30091a65f9",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_01": "Years ago, Kabunga read all the time. It was one of his favorite hobbies. As he got old, however, his eyes failed and he can’t see well enough to read anymore. So while he used to be able to read, he can’t any more.",
+    "stanza": "#?kerákerá, Kábunga ábyá ínangásomâ\nkerakera, Kabunga a-bi-a i-na-anga-som-a\nlong.time.ago, Kabunga SM.c1-be-FV C-SM.c1-MOD-read-FV\n\"a long time ago, Kabunga could read\"",
+    "phil": "kerákerá, Kábungá áliyé ábyá ínangásóma\nkerakera, kabunga a-li-ye a-bi-a i-na-anga-som-a\nlong.time.ago, Kabunga SM.c1-be?-c1.pron? SM.c1-be-FV C-SM.c1-MOD-read-FV\n\"A long time ago, Kabunga could read\"",
+    "consultant_comment": "(I hope you and Pat Schneider explain áliyé. Since the action is in the remote past, and I am stating it as a fact that she could read, I have inserted áliyé here)"
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818145623488",
+      "creator": "Lydia",
+      "modified": "20200924202735067",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 15",
+      "tmap_id": "e3e293fa-0d50-4a7d-b73c-2a48f8733c72",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_15": "What can Swera cook?",
+    "translation": "Swera angahukáki kwê\nSwera a-anga-huk-a-ki kwe\nSwera SM.c1-MOD-cook-FV-c7.Q Q\n\"What can Swera cook?\"\n\n\nNíki kyo Swera angahuka kwê\nNi-ki kyo Swera a-anga-huk-a kwe\nCOP-c7.Q c7.REL Swera SM.c1-MOD-cook-FV Q\n\"What can Swera cook?\""
+  },
+  {
+    "metadata": {
+      "created": "20200224154334045",
+      "creator": "Lydia",
+      "modified": "20200924202600161",
+      "modifier": "Lydia",
+      "tags": "[[downward entailing]] contextData ambu -na- [[strong necessity]] deontic negated angana anga -taneta- [[Kinande Q06",
+      "title": "KQ6 Context 03",
+      "tmap_id": "54dddccf-723c-4f0f-ab7d-c706021abd4d",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_3": "You walk into a store because you really need to use the bathroom. You tell the teller that you promise to buy something after you use the restroom. She replies:",
+    "stanza": "#Uby’ahó mbolere. Síwanganágúla kandu kálébe\nu-by-a aho mbolere. si-u-anga-na-gul-a kandu kalebe\nSM.2sg-be-FV there calm. NEG-SM.2sg-MOD-TM-buy-FV thing certain\n\"Stay there calmly, you do not have to buy anything\"\n\ninfelicitous. Version with utaneta is ok:\n\nsí babúgíre ambu útanétagúla kandu kálébe\nsí-ba-bug-ire ambu u-ta-ne-ta-gul-a kandu kalebe\nNEG-SM.c2-say-TM that SM.2sg-TM-TM-NEG?-say-FV thing certain\n\"they don't say that you have you buy anything\", \"you don't have to buy anything\""
+  },
+  {
+    "metadata": {
+      "created": "20200224163059311",
+      "creator": "Lydia",
+      "modified": "20200924202600645",
+      "modifier": "Lydia",
+      "tags": "contextData circumstantial possibility angana anga [[Kinande Q06",
+      "title": "KQ6 Context 07",
+      "tmap_id": "7fa7207f-e12a-44f6-a805-357a5c0b4515",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_7": "You see a family going through their fridge and throwing away all of their food. None of it is spoiled, and it is all still good to eat. This is a shame, and you say:\n\n''Sentence'': They are throwing away all of the food that they could eat",
+    "translation": "bámábyá bákágusa ebyálya ebyó banganálya (tami)\nba-ma-bi-a ba-ka-gus-a ebyalya ebyo ba-anga-na-li-a (tami)\nSM.c2-TM-be-FV SM.c2-TM-throw.away-FV food c2.poss? SM.c2-MOD-TM-eat-FV you.know\n\"they are throwing away the food that they can eat (you know)\"\n\nmóbábábwíre ambu bagúsé ebyályá byosí(byosí), n’ebyó banganálya\nmo-ba-ba-bwir-ire ambu ba-gus-e ebyalya byosi(-byosi), n-ebyo ba-anga-na-li-a\nTM-SM.c2-OM.c2-tell-TM that SM.c2-throw.away-SBJ food all(-RED), even-which SM.c2-MOD-TM-eat-FV\n\"they were told to throw away all of their food, even that which they could eat\""
+  },
+  {
+    "metadata": {
+      "created": "20200226010946928",
+      "creator": "Lydia",
+      "modified": "20200924202604324",
+      "modifier": "Lydia",
+      "tags": "deontic possibility anga contextData [[Kinande Q06",
+      "title": "KQ6 Context 13",
+      "tmap_id": "45144b92-f404-463e-8bda-394d23288d18",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_13": "No context",
+    "stanza": "The teacher said that Masika can swim",
+    "translation": "omugalímu mwábúyíre ati Másiká anganátsíga \nomugalimu mo-a-bug-ire a-ti Masika a-anga-na-tsig-a\nc1.teacher TM-SM.c1-say-TM SM.c1-that Masika SM.c1-MOD-TM-swim-FV\n\"The teacher said that Masika can swim\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818144942582",
+      "creator": "Lydia",
+      "modified": "20200924202734684",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 11",
+      "tmap_id": "a0944782-ec14-4085-a0a3-852d95bf9920",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_11": "Who cooked Ekihembe?\n\n''Translation'': iyóndi yó wahúk’ ékihémbeé\niyondi yo w-a-huk-a ekihembee\nwho that SM.c1-TM-cook-FV Ekihembe\n\"Who cooked Ekihembe?\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818143155988",
+      "creator": "Lydia",
+      "modified": "20200924202734022",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 05",
+      "tmap_id": "fbba951b-b0b0-4589-8b09-e8ed2116d9e8",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_05": "Kambale regularly eats dinner at Swera’s restaurant. He never misses a day, even when he is sick. It’s not obligatory for Kambale, he just goes for dinner there every day. It’s dinner time now, so…\n\n''Sentence'': #Kumbe Kámbale inabyá éyiry’ erestorá ya Swera\nKumbe Kambale i-na-bi-a e-yi-ri e-restora ya Swera\nbetter.that Kambale C-SM.c1-be-FV c24-c24-be c24-restaurant c9.ASSOC Swera\n\"Kambere must be at Swera’s restaurant\"\n\n\n''Phil'': Kámbalé ni mundú anapáswa eríbyá éyiry’ erestorá ya Swera \nKambale ni mundu a-na-pasw-a e-ri-bi-a e-yi-ri e-restora ya Swera\nKambale COP c1.person SM.c1-TM-must-FV c5-c5-be-FV c24-c24-be c24-restaurant c9.ASSOC Swera\n\"Kambale is a person he must be at Swera's restaurant\"",
+    "consultant_note": "(Note that anapaswa is borrowed from Swahili: anapashwa ‘he must be) I think Baluku of Uganda gave you a different word that the Konzo of Uganda use. Their word is also borrowed from another language)"
+  },
+  {
+    "metadata": {
+      "created": "20200909152916753",
+      "creator": "Lydia",
+      "modified": "20200914142419637",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 07",
+      "tmap_id": "147b740d-52b9-4cf1-8f3a-f6dadf48bbe9",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_07": "Masika doesn’t like swimming, but for gym class, the teacher says that she should swim today for exercise.",
+    "stanza": "#omugalímu mwábúyíre ati Másiká anganátsíga\nomugaliumu mo-a-bug-ire a-ti Masika a-anga-na-tsig-a\nc1.teacher TM-SM.c1-say-TM SM.c1-that Masika SM.c1-MOD-TM-swim-FV\nIntended: \"the teacher said that Masika has to swim\"",
+    "phil": "omugalímu mwábúyíre ati kúmbe Másiká ínátsígá munábwíre\nomugaliumu mo-a-bug-ire a-ti kumbe Masika i-na-tsig-a munabwire\nc1.teacher TM-SM.c1-say-TM SM.c1-C better.that Masika C-SM.c1?-swim-FV today\n\"The teacher said that Masika has to swim today.\""
+  },
+  {
+    "metadata": {
+      "created": "20200909155352778",
+      "creator": "Lydia",
+      "modified": "20200916155142924",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 13",
+      "tmap_id": "8df7f9b5-18f0-4091-b68b-f07fc8386d7b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_13": "This fruit is very delicious.",
+    "translation": "eritúnd’ erí rísíhire kutsibutsíbu\ne-ri-tunda e-ri ri-sih-ire kutsibutsibu\nAUG-c5-fruit c5.this SM.c5-be.delicious-TM much\n\"This fruit is very delicious.\""
+  },
+  {
+    "metadata": {
+      "created": "20200302191101318",
+      "creator": "Lydia",
+      "modified": "20200924202628241",
+      "modifier": "Lydia",
+      "tags": "[[relative clause]] [[weak necessity]] -na- angana anga [[downward entailing]] negated deontic [[i- (pfx)]] [[-e (sfx)]] sya- contextData [[Kinande Q07",
+      "title": "KQ7 Context 17",
+      "tmap_id": "8faa3d91-6ac5-4b8e-bc6a-c15a8191f17c",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_17": "You are walking around town with a friend. You walk through a market and look at the many things for sale, but your friend reminds you that it is better to save your money, and says:",
+    "stanza": "You shouldn’t buy anything",
+    "translation": "#Síwanganágúla kandu kálébe\nsi-u-anga-na-gul-a kandu kalebe\n???-SM.2sg-MOD-TM-buy-FV certain thing\n\"You could buy a certain thing\"",
+    "consultant_comment": "this actually means “You could buy a certain thing, good with mbino, but not here\n\nsúgúle kíndu\nsi-u-gul-e kindu\nNEG-SM.2sg-buy-SBJ c8.thing\n\"don’t buy anything\"\n\n\nKúmbe ísiwagula kíndu\nKumbe i-si-u-a-gul-a kindu\nbetter.that C-NEG-SM.2sg-TM-buy-FV c8.thing\n\"It is better that you don't buy anything\"\n\nsínyílángire ekíndu ekyó wangágúlá linô\nsi-nyi-lang-ire e-kindu e-k-yo u-anga-gul-a lino\nNEG-SM.1sg-see-TM AUG.c8-c8.thing AUG.c8-c8-REL SM.2sg-MOD-buy-FV now\n\"I don’t see anything which you can/should buy\" (ok with should interpretation)\n\n\nsíhali kindu ekyó wangágúla\nsi-ha-li kindu e-k-yo u-anga-gul-a\nNEG-c16-be c8.thing AUG.c8-c8-REL SM.2sg-MOD-buy-FV\n\"there is no thing which you can/should buy\" (ok with should interpretation)"
+  },
+  {
+    "metadata": {
+      "created": "20200226193948204",
+      "creator": "Lydia",
+      "modified": "20200924202622012",
+      "modifier": "Lydia",
+      "tags": "contextData negated [[Kinande Q07",
+      "title": "KQ7 Context 03",
+      "tmap_id": "56e7c4ae-6dd2-498c-9716-d781d25f18ee",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_03": "No context.",
+    "stanza": "[NPI woman] went swimming",
+    "translation": "*múkali ayatsíga\nmukali a-ya-tsig-a\nc1.woman SM.c1-go-swim-FV"
+  },
+  {
+    "metadata": {
+      "created": "20200731170645361",
+      "modified": "20200924202705679",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 01",
+      "tmap_id": "949f58f0-9b04-4771-8218-94a470efaf6e",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_01": "Years ago, Kabunga read all the time. It was one of his favorite hobbies. As he got old, however, his eyes failed and he can’t see well enough to read anymore. So while he used to be able to read, he can’t any more.",
+    "translate": "A long time ago, Kabunga could read.",
+    "translation": "kerákerá, Kábunga ábyá ínakásomâ \nkerakera, Kabunga a-bi-a i-na-ka-som-a\nlong.time.ago, Kabunga SM.c2-be-FV C-SM.c1-TM-read-FV\n\"a long time ago, Kabunga used to read\"\n\nkerákerá, omúgulu Kábungá ábyá ínakiné mwáná, ínasi erisóma. \nkerakera, o-mu-gulu Kabunga a-bi-a i-na-ki-ne mu-ana, i-na-si e-ri-som-a\nlong.time.ago, AUG-c3-time Kabunga SM..c1-be-FV C-SM.c1-TM-be c2-child, C-SM.c1-know AUG-c5-read-FV\n\"a long time ago, when Kabunga was still a child, he knew how to read\""
+  },
+  {
+    "metadata": {
+      "created": "20200731204145557",
+      "creator": "Lydia",
+      "modified": "20200924202713016",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 15",
+      "tmap_id": "e8b97581-3247-476f-b87a-c37b765d2cf2",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_15": "Is this sentence ok with the translated meaning?\n\nKábunga angańasóm’ ekítábu ekí kwéhi?\nKabunga a-anga-na-som-a e-kitabu eki kwehi/kwe?\nKabunga SM.c1-MOD-TM-read-FV c7-c7.book c7.this Q\n“Should Kabunga read this book?” (Is he supposed to read it?)\n\n''Phil: Yes''"
+  },
+  {
+    "metadata": {
+      "created": "20200924203350697",
+      "creator": "Lydia",
+      "modified": "20200929190934398",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 03",
+      "tmap_id": "fa9b2635-5dce-47a8-9fed-60b520d07a15",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_03": "Kabunga was in charge of bringing food to a lunch meeting. He showed up with a large amount of homemade food that he cooked and brought for everyone. It was delicious, but definitely more effort than anyone expected, especially since there are a number of inexpensive options to order lunch from in the area, and the company would’ve paid. You tell him:",
+    "stanza": "You didn’t have to cook, you could have bought lunch instead.",
+    "translation": "Kasíwabyá mundú w’ eríhuka támi. Wabyá mundú w’ erigula ebyályá by’ emidí ómwanyá w’eríhukábyô\nKa-si-u-a-bi-a mundu wa e-ri-huk-a tami. U-a-bi-a mundu wa e-ri-gul-a e-bi-alya bya emidi omwanya wa e-ri-huk-a-byo\nTM?-NEG-SM.2sg-TM-be-FV c1.person c1.ASSOC c5-c5-cook-FV do.not. SM.2sg-TM-be-FV c1.person c1.ASSOC c5-c5-buy-FV AUG-c8-food c8.ASSOC midday instead c1.ASSOC c5-c5-cook-FV-c8.PRN\n\"You didn't have to cook, you could have bought food instead\""
+  },
+  {
+    "metadata": {
+      "created": "20200924203252350",
+      "creator": "Lydia",
+      "modified": "20200925114215564",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 02",
+      "tmap_id": "f5fc0c95-2650-420c-8a71-a3fcee51efdd",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_02": "One day, as you were walking to the office for a meeting, a police officer stops you from taking your usual route, saying the road is closed. You have to take the long way around. Explaining to your coworkers why you’re late, you say:",
+    "stanza": "I couldn’t take my usual road, and I had to go the long away around.",
+    "translation": "Mónyitétatoka erímy’ enzira eyónyíbégere erigendámô. Nabyá ínyinapáswa erímy’ enzirá y’ omutímbo.\nMo-nyi-te-ta-tok-a e-ri-mi-a enzira e-yo-nyi-begere e-ri-gend-a-mo. Na-bi-a i-nyi-na-pasw-a e-ri-mi-a enzira yo o-mu-timbo.\nTM-SM.1sg-TM.NEG-TM.NEG-succeed-FV AUG-c5-take-FV c9.road AUG-REL-SM.1sg-used.to AUG-c5-go-FV-c24. and-be-FV C-SM.1sg-TM-must-FV AUG-c5-take-FV c9.road LNK AUG-c1-long\n\"I couldn't take the road that I'm used to taking. I had to take the long road (go the long way around).\""
+  },
+  {
+    "metadata": {
+      "created": "20200731203647732",
+      "creator": "Lydia",
+      "modified": "20200924202712540",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 14",
+      "tmap_id": "66e877f0-33d3-48a8-af60-5ef1350ee7d6",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_14": "Masika is a very avid reader; she always has a book in her hands. She doesn’t particularly follow recommendations or anything, she just reads every book she can get her hands on, as quickly as she can.",
+    "stanza": "Masika reads every book that she can read.",
+    "translation": "Masiká akásomá óbuli kitábu ekyánganásóma\nMasika a-ka-som-a obuli kitabu e-kyo-a-anga-na-som-a\nMasika SM.c1-TM-read-FV every c7.book AUG-c7.REL-SM.c1-MOD-TM-read-FV\n\"Masika reads every book that she can read.\""
+  },
+  {
+    "metadata": {
+      "created": "20200226193109814",
+      "creator": "Lydia",
+      "modified": "20200924202618592",
+      "modifier": "Lydia",
+      "tags": "contextData negated [[Kinande Q07",
+      "title": "KQ7 Context 02",
+      "tmap_id": "c7b906f6-fcb6-4912-9d8f-1acea893d06a",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_02": "No context.",
+    "stanza": "No woman went swimming.",
+    "translation": "síhalí múkali oyó wayatsigâ\nsi-ha-li mukali o-yo-wa-ya-tsig-a\nNEG-c.16-be woman AUG.c1-REL-SM.c1-go-swim-FV\n\"No woman went swimming\""
+  },
+  {
+    "metadata": {
+      "created": "20200302185703155",
+      "creator": "Lydia",
+      "modified": "20200924202627214",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q07",
+      "title": "KQ7 Context 16",
+      "tmap_id": "c47625e7-7399-44a7-8a31-c691986f0acb",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_16": "Kabunga often plays football with his friends, but today he feels a little sick. If you are sick and play football you are more likely to make a mistake and get hurt, so one of his friends says to him:",
+    "stanza": "You shouldn’t play (though you can if you really want to)",
+    "translation": "*sí wangasáta (ungrammatical for this verb)\n\n\n#síwangachéza, iyéhe (you cannot play, no)\nsi-u-anga-chez-a iyehe\nNEG-SM.2sg-MOD-play-FV, no\n\"You can't play, no\"",
+    "consultant_comment": "only ok for ‘cannot’, not good as a suggestion of a friend, or permission not to play"
+  },
+  {
+    "metadata": {
+      "created": "20200909155236366",
+      "creator": "Lydia",
+      "modified": "20200916154653190",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 12",
+      "tmap_id": "2ac2bb2c-8e44-4e14-b3c2-4045b65cdc45",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_12": "This fruit is much more delicious than that one.",
+    "translation": "eritúnd’ erí rísíhire kutsibú kúlabá riryâ\ne-ri-tunda e-ri ri-sih-ire kutsibu ku-laba rirya\nAUG-c5-fruit c5-this SM.c5-be.delicious-TM strong c15-pass c5-that\n\"This fruit is much more delicious than that one.\""
+  },
+  {
+    "metadata": {
+      "created": "20200909152744925",
+      "creator": "Lydia",
+      "modified": "20200911173708300",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 06",
+      "tmap_id": "1674db4d-6353-4b59-95db-73602fd0cdd5",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_06": "In Uganda, the law states that when you ride a motor bike…",
+    "stanza": "#kúmbé wámbale esapû\nkumbe u-ambal-e esapu\nbetter.that SM.2sg-wear-SBJ helmet\n\"you must wear a helmet\"",
+    "phil": "kúmbé íwámbal’ esapû\nkumbe i-u-ambal-a esapu\nbetter.that C-SM.2sg-wear-FV helmet\n\"You must wear a helmet\"\n\nEWugándá, elethá yikábuga yiti wamagend’ oko pikipíkí, íwámbal’ esapû\ne-uganda, eletha yi-ka-bug-a yi-ti u-a-ma-gend-a oko pikipiki, i-u-ambal-a esapu\nc24-Uganda, c9.law SM.c9-TM-say-FV c90that SM.2sg-TM-TM-go-FV on motorcycle, C-SM.2sg-wear-FV helmet\n\"In uganda, the law says that when you ride a motorcycle, you must wear a helmet.\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818142722500",
+      "creator": "Lydia",
+      "modified": "20200924202733925",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 04",
+      "tmap_id": "091354e1-1930-46e1-bfb9-6bb411b4460f",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_04": "Some celebrities published a list of “1,000 books that everyone should read before they die”. Since then, Swera has been reading the books on that list, and only those books. She intends to read every single book on that list whenever she can get her hands on a copy, but she refuses to spend her time reading anything else.\n\n''Sentence'': Swera akásomá óbuli kitábu ekyánganásóma\nSwera a-ka-som-a obuli kitabu e-kyo-a-anga-na-som-a\nSwera SM.c1-TM-read-FV every c7.book AUG-c7.REL-SM.c1-MOD-TM-read-FV\n\"Swera reads every book that she should read\"\n\n''Phil'': OK"
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818144655343",
+      "creator": "Lydia",
+      "modified": "20200924202734591",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 10",
+      "tmap_id": "f19d60e5-dfca-4a0a-9447-d855cab14ebb",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_10": "You are traveling to a far away land where you have never been. When you arrive, you notice that the climate and the way the soil is are both very similar to where you are from, and so you think maybe that Kinyamatsitsi would be able to grow here. This place is so far away from where you’ve seen Kinyamatsitsi grow, you are certain there isn’t any here now, but you think if you planted some it might be able to grow.\n\n''Translate'': Kinyamatsitsi might grow here.\n\n''Phil'': same sentences as in context 9, cf.,\n    \nekinyámátsitsi kyangalasá hano (kweli)\ne-ki-nyamatsitsi ki-anga-las-a hano (kweli)\nAUG-c7-plant SM.c7-MOD-grow-FV here (true)\n\"Kinyamatsitsi might grow here.\"\n\nekinyámátsitsi kyanganálasá hano (#kweli)\ne-ki-nyamatsitsi ki-anga-na-las-a hano (#kweli)\nAUG-c7-plant SM.c7-MOD-TM-grow-FV here (#true)\n\"Kinyamatsitsi might grow here.\""
+  },
+  {
+    "metadata": {
+      "created": "20200226005455313",
+      "creator": "Lydia",
+      "modified": "20200924202604226",
+      "modifier": "Lydia",
+      "tags": "[[w- (pfx)]] associative deontic anga [[weak necessity]] [[downward entailing]] contextData [[Kinande Q06",
+      "title": "KQ6 Context 12",
+      "tmap_id": "feee64e0-b6f8-442a-a6a5-3213e6eaffe3",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_12": "No context",
+    "stanza": "Should Kabunga read this book?",
+    "translation": "Kábunga ninámwana w’angásoma ekitábu ekí kwê?\nKabunga ni-na-mwana wa a-anga-som-a e-kitabu eki kwe?\nKabunga COP-TM-child ASSOC SM.c1-MOD-read-FV c7-c7.book c7.this Q\n\"Should Kabunga read this book\" \"is Kabunga a child who should read this book?\"\n\n\nninamundú w’ erisoma ekitábu ekí kwéhi?\nni-na-mundu wa eri-som-a e-kitabu eki kwehi?\nCOP-SM.c1-person ASSOC? inf-read-FV c7-c7.book c7.this Q\n\"Is he a person to read this book?\""
+  },
+  {
+    "metadata": {
+      "created": "20200224162608655",
+      "creator": "Lydia",
+      "modified": "20200924202600550",
+      "modifier": "Lydia",
+      "tags": "contextData [[downward entailing]] anga [[strong necessity]] [[weak necessity]] deontic kumbe [[Kinande Q06",
+      "title": "KQ6 Context 06",
+      "tmap_id": "6fca77e0-4468-497b-b24f-1736d03693ad",
+      "type": "text/vnd.tiddlywiki",
+      "''Context,6''": "no context"
+    },
+    "stanza": "Masika should go swimming, but she doesn’t have to.\n\n''Translation'':\n#Kúmbe Masika ínayatsíga, aliwé syángáyatsíga\nKumbe Masika i-na-ya-tsig-a, aliwe si-a-anga-ya-tsig-a\nbetter.that Masika C-TM-go-swim-FV, but NEG-SM.c1-MOD-go-swim-FV\nIntended: \"It is better for Masika to go swimming, but she does not have to.\"\n\ninfelicitous"
+  },
+  {
+    "metadata": {
+      "created": "20200225232254336",
+      "creator": "Lydia",
+      "modified": "20200924202603983",
+      "modifier": "Lydia",
+      "tags": "[[weak necessity]] deontic [[relative clause]] [[i- (pfx)]] kumbe conditional [[downward entailing]] angana anga contextData [[Kinande Q06",
+      "title": "KQ6 Context 10",
+      "tmap_id": "99517f70-ae54-4afe-9c36-82da01c5b457",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_10": "Kambale is supposed to play in at least football three games a month. You’re not sure how many games he has played this month, but you know that if he hasn’t played at least three, he needs to go to Butembo to play in the game there so he doesn’t get in trouble.\n\n''Sentence'': If Kambale should/has to play football tomorrow, he should go to Butembo\n\nTranslation: \nKámbale amábyá ínimundú w’ erípika oko mupírá k’ omúngyá, kúmbe ínagénda eBútembo\nKambale a-ma-bi-a i-ni-mundu wa eri-pik-a oko mupira ko omungya, kumbe i-na-gend-a e-Butembo\nKambale SM.c1-TM-be-FV C-COP?-person ASSOC INF-kick-FV LNK c3.ball LNK tomorrow, better.that C-SM.c1-go-FV c24-Butembo\n\"If Kambale should play football tomorrow, he should go to Butembo\"\n\n#Kambale amábyá ínanganápika oko mupírá kw’ omúngyá, Kúmbe ínagénda eBútembo\nKambale a-ma-bi-a i-na-anga-na-pik-a oko mupira kwa omungya, kumbe i-na-gend-a e-Butembo\nKambale SM.c1-TM-be-FV C-SM.c1-MOD-TM-kick-FV LNK c3.ball LNK tomorrow, better.that C-SM.c1-go-FV c24-Butembo\n\"If Kambale can play football tomorrow, he should go to Butembo\""
+  },
+  {
+    "metadata": {
+      "created": "20200224160538103",
+      "creator": "Lydia",
+      "modified": "20200924202600311",
+      "modifier": "Lydia",
+      "tags": "contextData [[strong necessity]] possibility deontic -taneta- nga- nga-oko negated anga [[Kinande Q06",
+      "title": "KQ6 Context 04",
+      "tmap_id": "05887797-7add-49ca-bc99-4b5e95bff2cc",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_4": "No context because I was lazy.",
+    "stanza": "Masika may go swimming, but she doesn't have to.",
+    "translation": "#Masika angáyatsíga, aliwé syángáyatsíga\nMasika a-anga-ya-tsig-a, aliwe si-anga-ya-tsig-a\nMasika SM.c1-MOD-go-swim-FV, but NEG-MOD-go-swim-FV\nintended: \"Masika can go swimming, but she does not have to go swimming\"\n\nInfelicitious; better options:\n\nMasika angáyatsíga, aliwé nyinásí ng’okó syángatsíga\nMasika a-anga-ya-tsig-a aliwe nyi-na-si nga-oko si-anga-tsig-a\nMasika SM.c1-MOD-go-swim-FV but SM.1sg-TM-know that NEG-MOD-swim-FV\n\"Masika may go swimming, but I know that she cannot swim.\"\n\nMasika angáyatsíga, aliwé sibabúgíre ambu átanétatsíga\nMasika a-anga-ya-tsig-a, aliwe si-ba-bug-ire ambu a-ta-ne-ta-tsig-a\nMasika SM.c1-MOD-go-swim-FV, but NEG-SM.c2-say-TM that SM.c1-TM-TM-NEG?-swim-FV\n\"Masika may go swimming, but they don't say that she has to swim.\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818143331826",
+      "creator": "Lydia",
+      "modified": "20200924202734117",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 06",
+      "tmap_id": "a2a6065a-ce87-4a3f-aa0d-dbe1f2f5bac7",
+      "type": "text/vnd.tiddlywiki",
+      "''Context,06''": "In Uganda, the law states that when you ride a motor bike…",
+      "''Sentence''": "kúmbé íwámbal’ esapû",
+      "''Phil''": "Ok"
+    }
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818145123834",
+      "creator": "Lydia",
+      "modified": "20200924202734779",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 12",
+      "tmap_id": "3c0c13ec-879c-428b-8c70-858a5f81706d",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_12": "Who can cook Ekihembe?",
+    "translation": "iyóndi yó wangáhuk’ ékihémbeé\niyondi yo w-anga-huk-a ekihembee\nwho that SM.c1-MOD-cook-FV ekihembe\n\"Who can cook Ekihembe?\""
+  },
+  {
+    "metadata": {
+      "created": "20200909154637556",
+      "creator": "Lydia",
+      "modified": "20200915164639261",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 10",
+      "tmap_id": "42883873-d484-4ca7-bd98-51bd0eae4a7b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_10": "Kabunga is much taller than Kambere",
+    "translation": "Kábunga ni múlí kúlaba Kámbére\nKabunga ni muli ku-laba Kambere\nKabunga COP tall c15-pass Kambere\n\"Kabunga is taller than Kambere\"\n\nKábunga ni múlí kutsibutsibú kúlaba Kámbére\nKabunga ni muli ku-tsibutsibu ku-laba Kambere\nKabunga COP tall c15-much? c15-pass Kambere\n\"Kabunga is much taller than Kambere\"\n\nKábunga ni múly’ oko Kámbéré ko kutsibutsibú \nKabunga ni muli oko Kambere ko kustibutsibu\nKabunga COP tall PREP Kambere LNK? much\n\"Kabunga is much taller than Kambere\""
+  },
+  {
+    "metadata": {
+      "created": "20200909152145613",
+      "creator": "Lydia",
+      "modified": "20200910140438780",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 04",
+      "tmap_id": "cc14da9f-88e7-48bc-8a95-57445a765524",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_04": "Who should cook ekihembe?",
+    "translation": "níndi yúkandíhuk’ ekihémbe\nnindi yu-ka-ndi-huk-a e-kihembe\nwho AAE-TM-TM-cook-FV ekihembe\n\"who will cook the kihembe (bean sauce)\"\n\nOyúkáhuk’ ekihémbé, akáby’ íníndi\no-yu-ka-huk-a e-kihembe, a-ka-bi-a i-nindi\nAUG-AAE-TM-cook-FV ekihembe, SM.c1-TM-be-FV C?-who\n\"who should cook the kihembe, the person who cooks the kihembe, who is it normally?\""
+  },
+  {
+    "metadata": {
+      "created": "20200302181140244",
+      "creator": "Lydia",
+      "modified": "20200924202626959",
+      "modifier": "Lydia",
+      "tags": "eripaswa [[weak necessity]] deontic contextData [[Kinande Q07",
+      "title": "KQ7 Context 14",
+      "tmap_id": "ce18a7d0-a9e3-4252-935b-62182688a735",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_14": "Kámbére was in a moterbike accident 3 weeks ago, and he sprained his ankle. He is able to walk now, but it hurts to do so, and so Kámbére doesn’t want to. The doctor says Kámbére ought to start walking to rehabilitate his foot, but he doesn’t absolutely have to yet, if it hurts too much.",
+    "stanza": "Kambere ought to walk (though not if it hurts too much)",
+    "translation": "#Kámbére anapáswa eríbúnga\nKambere a-na-pasw-a eri-bung-a\nKambere SM.c1-TM-must-FV INF-walk-FV\n\"Kambere must walk\"",
+    "consultant_note": "This is ok if the doctor is giving an order, but it's not ok as a suggestion."
+  },
+  {
+    "metadata": {
+      "created": "20200731204626460",
+      "creator": "Lydia",
+      "modified": "20200924202715779",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 16",
+      "tmap_id": "38cc7729-210e-4019-81f1-2effb319e819",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_16": "You and your friends have a book club. Every month, you discuss one book and then choose the next one you will all read. This meeting, Kabunga has suggested a book. So you ask the whole group what they think:",
+    "translate": "Should we read this book?",
+    "translation": "tuné b’erisom’ekitábu eki?  (i.e., tuné bandú b’erisoma ekitábu ekí kwéhi)\ntu-ne ba e-ri-som-a e-kitabu e-ki?\nSM.1pl ASSOC.1pl AUG-c7.book e-this.c7\n\"Are we people of to read this book?\"\n\n        We-are of to read book this? (i.e., are we people (of) to read this book Question)"
+  },
+  {
+    "metadata": {
+      "created": "20200731172130538",
+      "creator": "Lydia",
+      "modified": "20200924202706118",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 02",
+      "tmap_id": "ebc86713-44d6-4417-a5c5-39486ef56df1",
+      "type": "text/vnd.tiddlywiki",
+      "Context,02": "When Masika was a small child, she didn’t know how to read. When she went to school, they taught her how to read, and now she reads books all the time."
+    },
+    "stanza": "A long time ago, Masika couldn’t read.",
+    "translation": "kerákera Másiká ábyá ísyálisomâ\nkerakera Masika a-bi-a i-si-a-li-som-a\nlong.time.ago Masika SM.c1-be-FV C-NEG-SM.c1-TM.NEG-read-FV\n\"A long time ago, Masika didn’t read\"\n\nkerákerá, omúgulu Másiká ábyá ínakiné mulére, ísyángasóma \nkerakera o-mu-gulu Masika a-bi-a i-na-ki-ne mu-lere, i-si-a-anga-som-a\nlong.time.ago AUG-c3-time Masika SM.c1-be-FV C-SM.c1-TM-be c1-girl C-NEG-SM.c1-MOD-read-FV\n\"A long time ago, when Masika was still young, she couldn’t read.\""
+  },
+  {
+    "metadata": {
+      "created": "20200924202959645",
+      "creator": "Lydia",
+      "modified": "20200925113303220",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 01",
+      "tmap_id": "32d8d4cd-78c9-4339-8e1d-041ab959704e",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_01": "Yesterday I went to the office at noon.",
+    "translation": "Muligóló, mónagéndire oko bureau k’ omotututu. \nmuligolo, mo-na-gend-ire oko bureau ko omotututu \nyesterday TM-SM.c1-go-TM PREP office LNK? noon\n\"Yesterday I went to the office at noon\""
+  },
+  {
+    "metadata": {
+      "created": "20200731172634134",
+      "creator": "Lydia",
+      "modified": "20200924202706257",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 03",
+      "tmap_id": "2e72aabd-81bc-4d06-9793-777ae5892306",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_03": "When Kambere attended school, the teachers made him read all the time, even though he didn’t like it. He would do all of the reading that he was supposed to, but he was never happy about how much he had to read. He finally finished school this year, and now he doesn’t have to read books anymore, he can do what he likes. He’s very happy about this (for now).",
+    "translate": "When he was in school, Kambere had to read.",
+    "translation": "esáhá ábya omo kalhásí, Kámbére ábyá ínanapáshwa erisóma\ne-saha a-bi-a omo kalhasi, Kambere a-bi-a i-na-na-pasw-a e-ri-som-a\naug-c9.time Sm.c1-be-FV at c9.school, Kambere SM.c1-be-FV C-SM.c1-TM-must-FV AUG-c5-read-FV\n\"When he was at school, Kambere had to read. \"\n\nConsultant Note: eri-páshwa is a loan word from Swahili: to be obliged to."
+  },
+  {
+    "metadata": {
+      "created": "20200731205613622",
+      "creator": "Lydia",
+      "modified": "20200924202715883",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 17",
+      "tmap_id": "9a459003-09a1-4998-ba8f-3c4b7cb9c53e",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_17": "Is this sentence ok with the translation given?\n\nomugalímu mwábúyíre ati Másiká anganátsíga\nomugalimu mo-a-bug-ire a-ti Masika a-anga-na-tsig-a\nc1.teacher TM-SM.c1-say-TM SM.c1-that Masika SM.c1-MOD-TM-swim-FV\n“The teacher said that Masika should swim”",
+    "phil": "I would translate it as: the teacher said that Masika can swim. \n\nIf I were to translate ‘should’I would say\n         omugalímu mwábúyíre ati Másiká angátsíga.       \nomugalimu mo-a-bug-ire a-ti Masika a-angatsig-a\nc1.teacher TM-SM.c1-say-TM SM.c1-that Masika SM.c1-MOD-swim-FV\n\n\n         omugalímu mwábúyíre ati Másiká ámábyá w’eritsíga \nomugalimu mo-a-bug-ire a-ti Masika a-ma-bi-a wa e-ri-tsig-a\nc1.teacher TM-SM.c1-say-TM SM.c1-that Masika SM.c1-TM-be-FV ASSOC.c1 AUG-c5-swim-FV"
+  },
+  {
+    "metadata": {
+      "created": "20200302181838049",
+      "creator": "Lydia",
+      "modified": "20200924202627090",
+      "modifier": "Lydia",
+      "tags": "sya- [[weak necessity]] kumbe [[i- (pfx)]] epistemic ndi contextData [[Kinande Q07",
+      "title": "KQ7 Context 15",
+      "tmap_id": "226128b7-e877-478a-8b8c-b1a6dc73d872",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_15": "Kábunga is not a consistent student, and often skips class on Wednesdays, but he is usually there on Mondays. Today is Monday, and so the professor isn’t entirely sure whether  Kábunga will show up, but since it’s Monday and Kábunga is relatively consistent on Mondays, he thinks Kábunga will probably be there.",
+    "stanza": "Kabunga should be coming to class today (based on what we know he probably will come)",
+    "translation": "Kúmbe Kábunga ínas’oko kalhásí kó munábwíré\nKumbe Kabunga i-na-sya oko kalhasi ko munabwire\nbetter.that Kabunga C-TM-come to class PREP today\n\"Kabunga should come to class today\"",
+    "consultant_comment": "note the sya is not negation, not sure what it is, seems to co-occur with mbino “maybe”"
+  },
+  {
+    "metadata": {
+      "created": "20200226191800228",
+      "creator": "Lydia",
+      "modified": "20200924202617942",
+      "modifier": "Lydia",
+      "tags": "contextData [[downward entailing]] negated [[Kinande Q07",
+      "title": "KQ7 Context 01",
+      "tmap_id": "274d59b1-261a-425a-b9f3-292ebd24c6a9",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_01": "No context.",
+    "stanza": "I didn't see any woman.",
+    "translation": "mónyitétalangirá múkali\nmo-nyi-te-ta-langir-a mukali\nTM-TM-TM.NEG-TM.NEG-see-FV c1.woman\n\"I didn't see any woman.\""
+  },
+  {
+    "metadata": {
+      "created": "20200909152625946",
+      "creator": "Lydia",
+      "modified": "20200911172848618",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 05",
+      "tmap_id": "f5fbfcd2-8712-40ed-ba27-6c4ff0998e88",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_05": "What should Swera cook?",
+    "translation": "Swera angahuká ki\nSwera a-anga-huk-a ki\nSwera SM.c1-MOD-cook-FV what\n\"What should Swera cook?\"\n\nNíki kyo Swera angahuka kwê\nNi-ki kyo Swera a-anga-huk-a kwe\nCOP-what c7-REL Swera SM.c1-MOD-cook-FV Q\n\"What should Swera cook?\""
+  },
+  {
+    "metadata": {
+      "created": "20200909154752181",
+      "creator": "Lydia",
+      "modified": "20200915170106471",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 11",
+      "tmap_id": "4780662d-0875-4942-9a6b-4e782b494c6a",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_11": "Kabunga is very tall.",
+    "translation": "Kábunga ni múli kundu\nKabunga ni muli kundu\nKabunga COP tall very\n\"Kabunga is very tall\"\n\nKábunga ni mundu múli kutsibutsíbu\nKabunga ni mundu muli kutsibutsibu\nKabunga COP c1.person tall much\n\"Kabunga is a very tall person\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818145400758",
+      "creator": "Lydia",
+      "modified": "20200924202734873",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 13",
+      "tmap_id": "d71cacd8-1d01-4b25-ab16-1eeeb3da312c",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_13": "Who has to cook Ekihembe?",
+    "translation": "níndi yúkandíhuk’ékihémbeé\nnindi yu-ka-ndi-huk-a ekihembee\n{{who||hlg}} AAE-TM-TM-cook-FV ekihembe\n\"Who has to cook Ekihembe?\"\n\nníndi yúkandíbyá íyúkandíhuk’ ékihémbeé\nnindi yu-ka-ndi-bi-a i-yu-ka-ndi-huk-a ekihembee\n{{who||hlg}} AAE-TM-TM-be-FV C-AAE-TM-TM-cook-FV ekihembe\n\"Who has to cook Ekihembe?\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818143411115",
+      "creator": "Lydia",
+      "modified": "20200924202734216",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 07",
+      "tmap_id": "18c5ba79-6dbe-435b-af86-7e8bd0be5de7",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_07": "There’s only one road from Kakiri to Kampala: The Kampala-Hoima road.\n\n''Sentence'': Wamábyá íwukáy’eKampalá erilw’eKákíri, kumbe iwuimay’endáky’eyi\n\n''Phil'': Wamábyá íwukáy’ eKampálá erilw’ eKákírí, kúmbé íwímy’ endáky’ eyi\nu-a-ma-bi-a i-u-ka-y-a e-Kampala e-ri-lu-a e-Kakiri, kumbe i-u-im-i-a endakya eyi\n2sg-TM-TM-TM-be-FV C-2sg-TM-go c24-Kampala INF-leave-FV c24-Kakiri, better.that C-2sg-take-CAUS-FV c9.road c9-this\n\"If you go to Kampala from Kakiri, you should take this road.\"\n\n        (I only corrected the typos in your sentence, including the tones)"
+  },
+  {
+    "metadata": {
+      "created": "20200224162136768",
+      "creator": "Lydia",
+      "modified": "20200924202600440",
+      "modifier": "Lydia",
+      "tags": "contextData [[strong necessity]] possibility anga eripaswa deontic negated [[Kinande Q06",
+      "title": "KQ6 Context 05",
+      "tmap_id": "8d0fef66-3ca6-4367-9af3-0184bbee0b99",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_05": "No context because I was still lazy",
+    "translation": "*Masika angáyatsíga, aliwé syanapaswa eriyatsíga\nMasika a-anga-ya-tsig-a, aliwe si-a-na-pasw-a eri-ya-tsig-a\nMasika SM.c1-MOD-go-swim-FV, but NEG-SM.c1-go-swim-FV\nIntended: \"Masika can go swimming, but she doesn't have to.\"\n\nungrammatical. In general negating paswa is disallowed"
+  },
+  {
+    "metadata": {
+      "created": "20200226003129783",
+      "creator": "Lydia",
+      "modified": "20200924202604095",
+      "modifier": "Lydia",
+      "tags": "circumstantial [[downward entailing]] possibility -na- angana anga contextData [[Kinande Q06",
+      "title": "KQ6 Context 11",
+      "tmap_id": "c601fe07-eb18-48f7-b045-fbd93ef21833",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_11": "No context",
+    "stanza": "Can Kabunga read this book (i.e., is he capable of reading it?)",
+    "translation": "Kábunga angańasóm’ ekítábu ekí kwéhi/kwê?\nKabunga a-anga-na-som-a e-kitabu eki kwehi/kwe?\nKabunga SM.c1-MOD-TM-read-FV c7-c7.book c7.this Q\n\"Can Kabunga read this book?\"\n\nPotential answer:\nihíií, anganakísómā\níhíií, a-anga-na-ki-som-a\nyes, SM.c1-MOD-TM-OM.c7-read-FV\nYes, he can read it\n\n''comment'': ((note final tone is mid/downstepped/something))"
+  },
+  {
+    "metadata": {
+      "created": "20190710084927084",
+      "modified": "20200924202330427",
+      "tags": "[[Kinande Q02",
+      "title": "KQ2 Context 03",
+      "tmap_id": "90dc1a3c-2a48-4193-8e3d-b06bcde46241",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context3|kq2_context_03]]": "You are riding the bus with a friend to Kampala. Yo have not had a chance to go to the toilet for 6 hours, and your bladder is very full. You tell your friend:",
+    "stanza": "I have to pee so badly!",
+    "translation": "Ngáyasubalâ \n/n-ka-ya-subal-a/ \n1st-pres-go/fut-pee-fv\nI am going to pee\n\nIndi ingy’ono ngáyisubalákó, ngáyasubalâ\nLook I am about to pee on myself, I am going to pee"
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.04]]",
+      "created": "20210216151325328",
+      "creator": "Lydia",
+      "modified": "20210319145902160",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 04",
+      "tmap_id": "237411bc-e496-453e-b6f4-e8f1eb77706b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Kanyerê is still learning how to ride a motor bike. She just started 1 month ago. Her friend tells her that...",
+    "stanza": "#Kanyeré anatolere erigendyá bolóbólo (Kanyere ought to drive slowly)\n\nKanyeré akinátólere kúmbé ínabyá ákagendyá bolóbólo\n\nKanyeré akinátólere kúmbé ínagéndyá bolóbólo"
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.10]]",
+      "created": "20210225145600338",
+      "creator": "Lydia",
+      "modified": "20210319150811655",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 10",
+      "tmap_id": "51ce4fe0-2230-414e-8147-22589ac78749",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "In Uganda, the law states that when you ride a motor bike…",
+    "stanza": "#Unatoler’eryambal’esapû (you have to wear a helmet)\n\níwámbal’esapû. ( wamasond’eriy’omo sókó, íwámbal’esapû)\n\n           Wamay’omo sókó, bakábug’ambu kúmbé íwámbal’esapû)"
+  },
+  {
+    "metadata": {
+      "created": "20190716223925538",
+      "creator": "Lydia",
+      "modified": "20200924202424317",
+      "modifier": "Lydia",
+      "tags": "circumstantial anga contextData [[Kinande Q03",
+      "title": "KQ3 Context 07",
+      "tmap_id": "925e5132-9c6d-43a4-a468-29040be5598d",
+      "type": "text/vnd.tiddlywiki",
+      "Context 7|KQ3 Context 07": "Swera knows how to make Luwombo. Now she is in the United States, and she want to make Luwombo, but the right kind of ingredients are not sold where she lives! So she is unhappy because she wanted to show her friends how to make Luwombo."
+    },
+    "stanza": "Swera anganáhuk’ oluwómbo\nSwera a-anga-na-huk-a oluwombo\nSwera SM.c1-MOD-TM-cook-FV c11.luwombo\n\"Swera can make Luwombo\"",
+    "consultant_comment": "this is OK. I corrected your initial sentence by inserting  n i.e. anganahuka.  However, what I would probably say is:\n\nSwera ni musíká akáhuk’ oluwómbo\nSwera ni musika a-ka-huk-a oluwombo\nSwera COP c1.girl SM.c1-TM-cook-FV c11.luwombo\n\"Swera is a girl she cooks Luwombo\", to mean, Swera is a girl who is able to cook Luwombo.\n\n''Consultant comment:' In my area, I do not know what Luwombo is. Maybe it is a term used by the Konzo who probably borrowed it from Rutooro, given what Baluku responded last time."
+  },
+  {
+    "metadata": {
+      "created": "20190814202519759",
+      "creator": "Lydia",
+      "modified": "20200924202501164",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 04",
+      "tmap_id": "4bc94547-41a7-4ef0-aebf-24f21f7db0a2",
+      "type": "text/vnd.tiddlywiki",
+      "Context 4": "|KQ4 Context 04]]Kambale has been working outside all day, and now is sweaty and dirty. He should wash himself off before he does anything else indoors."
+    },
+    "stanza": "Kambale angánaba\nKámbale a-angá-nab-a\nKambale SM.c1-MOD-wash-FV\n\"Kambale should wash himself\"\nok"
+  },
+  {
+    "metadata": {
+      "created": "20190814205317645",
+      "creator": "Lydia",
+      "modified": "20200924202501806",
+      "modifier": "Lydia",
+      "tags": "[[i- (pfx)]] contextData [[Kinande Q04",
+      "title": "KQ4 Context 10",
+      "tmap_id": "bfdcce7d-76bf-4dc1-b383-7587edf6e2c2",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_10": "Kambale’s parents told him that he is not allowed to go see his friend in Kibangya because it is too far away. You know that Kambale is leaving Kampala next week, but you don’t know where he will go. Kambale is a daring type of guy that often does things that he is not permitted to do. You think:",
+    "stanza": "Kámbale angagénd’ eKibángya\nKambale a-anga-gend-a e-Kibangya\nKambale SM.c1-MOD-go-FV c24-Kibangya\nIntended: \"Kambale may go to Kibangya.\"",
+    "phil": "Kámbale anganábyá ínáyiry’ eKibángya\nKambale a-anga-na-bi-a i-na-yiry-a e-Kibangya\nKambale SM.c1-MOD-TM-be-FV C?-SM.c1-go?-FV c24-Kibangya\n\"Kambale might have gone to Kibangya\""
+  },
+  {
+    "metadata": {
+      "created": "20190814205725292",
+      "creator": "Lydia",
+      "modified": "20200924202501905",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 11",
+      "tmap_id": "525b7812-fddf-4f34-87f7-59e05f6b37d1",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_11": "Kambale is a very good soccer player. In fact, he’s the best player on his team. His team has a game tomorrow, but the opposing team is not particularly good. If Kambale plays tomorrow, his team will certainly win the game. (If he doesn’t, it’s not quite so certain.)",
+    "stanza": "If Kámbale plays soccer tomorrow, he will win.",
+    "translation": "Kámbalé amábyá ínakandisyápika oko mupírá k’ omúngyá, ínakándisyásínga\nKambale a-ma-bi-a i-na-ka-ndi-sya-pik-a oko mupira ko omungya, i-na-ka-ndi-sya-sing-a\nKambale SM.c1-TM-be-FV C-SM.c1-TM-TM-TM-play-FV c17 c3.ball c17 tomorrow, C-SM.c1-TM-TM-TM-win-FV\n\"If Kambale plays football tomorrow, he will win\""
+  },
+  {
+    "metadata": {
+      "created": "20190814202921400",
+      "creator": "Lydia",
+      "modified": "20200924202501274",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 05",
+      "tmap_id": "5885942f-7136-4b7e-adbc-de728cc632ba",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_5": "Kámbére was in a moterbike accident 3 weeks ago, and he sprained his ankle. He is able to walk now. But the doctor told Kambére that he is not allowed to walk until 5 weeks after the accident.",
+    "stanza": "*Kámbére angabúnga\nKambere a-anga-bung-a\nKambere SM.c1-MOD-walk-FV\n\"Kambere is able to walk\"",
+    "phil": "Kámbére anganábunga\nKambere a-anga-na-bung-a\nKambere SM.c1-MOD-TM-walk-FV\n\"Kambere can walk (now)\""
+  },
+  {
+    "metadata": {
+      "created": "20190716222317547",
+      "creator": "Lydia",
+      "modified": "20200924202424216",
+      "modifier": "Lydia",
+      "tags": "associative [[w- (pfx)]] possibility circumstantial -na- [[Kinande Q03",
+      "title": "KQ3 Context 06",
+      "tmap_id": "4eb4b863-ee6d-4448-b99a-c388348075b2",
+      "type": "text/vnd.tiddlywiki",
+      "Context 6|KQ3 Context 06": "Kámbére was in a moterbike accident 3 weeks ago, and he sprained his ankle. He is able to walk now. But the doctor told Kambére that he is not allowed to walk until 5 weeks after the accident."
+    },
+    "stanza": "Kámbére anganabúnga\nKambere a-anga-na-bung-a\nKambere SM.c1-MOD-TM-walk-FV\n\"Kambere is able to walk\"",
+    "consultant_comment": "this is acceptable. But I would say:\n\nKámbale ámâbíbyá w’ eríbúnga\nKambale a-ma-bi-bi-a wa eri-bung-a\nKambale SM.c1-TM-TM-be-FV of INF-walk-FV\n\"Kambale is able now to walk\"",
+    "or": "Kámbale ámâbíbyá w’ erílendéra\nKambale a-ma-bi-bi-a wa eri-lender-a\nKambale SM.c1-TM-TM-be-FV of INF-walk-FV\n\"Kambale is able now to walk\""
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.11]]",
+      "created": "20210225150327391",
+      "creator": "Lydia",
+      "modified": "20210319151022542",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 11",
+      "tmap_id": "edb6ce03-e9fa-4a9e-90b7-b43b27727e58",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "One day, as you were walking to the office for a meeting, a police officer stops you from taking your usual route, saying the road is closed. You have to take the long way around. Explaining to your coworkers why you’re late, you say:",
+    "stanza": "#Mónyitétatoka erímy’ enzira eyónyíbégere erigendámô. Nabyá ínyinatolera erímy’ enzirá y’ omutímbo. (I couldn't take the road that I am used to taking. I had to take the long road)\n\nMónyitétatoka erímy’ enzira eyónyíbégere erigendámô. mónimíre enzirá y’ omutímbó, kundí yóna nzirá yasigálá eyónanganímyâ (I couldn’t take the road that I am used to walk in. I took the long road (the road of the curve) because it was the road that remained that I could still take)"
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.05]]",
+      "created": "20210216152030548",
+      "creator": "Lydia",
+      "modified": "20210319150054497",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 05",
+      "tmap_id": "df56a4f3-f0ec-4022-bc01-d868c1596410",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Kámbére was in a moterbike accident 3 weeks ago, and he sprained his ankle. He is able to walk now, but it hurts to do so, and so Kámbére doesn’t want to. The doctor says Kámbére ought to start walking to rehabilitate his foot, but he doesn’t absolutely have to yet, if it hurts too much.\n\nSentence: #Kámbére anatolere eríbúnga (Kambere ought to walk (though not if it hurts too much))\n\nKámbére anátólere ínabunga (momo ekisandó kíwe kikinálúmâ) (… even though his leg still hurts)"
+  },
+  {
+    "metadata": {
+      "created": "20191106200424978",
+      "creator": "Lydia",
+      "modified": "20200924202528073",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q05",
+      "title": "KQ5 Context 01",
+      "tmap_id": "f7e54c2f-14d0-48a0-83f6-c91bccc60b00",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_1": "Kábunga is not a consistent student, and often skips class on Wednesdays, but he is usually there on Mondays. Today is Monday, and so the professor isn’t entirely sure whether  Kábunga will show up, but since it’s Monday and Kábunga is relatively consistent on Mondays, he thinks Kábunga will probably be there.",
+    "stanza": "Kábunga anganás’ oko kalhásí kó munábwíre\nKabunga a-anga-na-sya oko kalhasi ko munabwire\nKabunga SM.c1-MOD-TM-come c17 class c17 today\n\"(Kabunga should be coming to class today\"\n\nPhilip: It is OK"
+  },
+  {
+    "metadata": {
+      "created": "20190710084654938",
+      "creator": "Lydia",
+      "modified": "20200924202330281",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q02",
+      "title": "KQ2 Context 02",
+      "tmap_id": "90aaaa1b-335b-416d-91c1-2282db59b7bd",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context_2|kq2_context_02]]": "Kambale regularly eats dinner at Swera’s restaurant. He never misses a day, even when he is sick. It’s not obligatory for Kambale, he just goes for coffee there all the time. It’s dinner time now, so...",
+    "stanza": "Kambale must be at Swera’s restaurant.",
+    "translation": "Kámbalé akándíbyá ínaly’omo restorá ya Swera \n/ a-ka-ndi-bi-a i-na-li c18 9.restaurant c9.AM Swera/ (he will be that he is)\n3sg-pres-fut?-be-fv C-TM-be\n\nKámbale alí éyiry’erestorá ya Swera \n/Kambale a-li e-yi-ri e-restora/ \nKambale 3sg-be c24-c24-be c24-restaurant\nKambale is where there is the restaurant of Swera"
+  },
+  {
+    "metadata": {
+      "created": "20210216153035629",
+      "creator": "Lydia",
+      "modified": "20210319140753454",
+      "modifier": "Lydia",
+      "tags": "eripaswa contextData unglossed [[Kinande Q13",
+      "title": "KQ13 Context 01",
+      "tmap_id": "6d9b352e-0794-4bb1-999d-4326caa0341b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Másikâ’s teacher told her class that it was ok to go swimming, but Másikâ doesn’t want to go because she cannot swim!",
+    "stanza": "Másiká anapaswa eriyatsíga (Masika can go swimming)"
+  },
+  {
+    "metadata": {
+      "created": "20210429182148984",
+      "creator": "Lydia",
+      "modified": "20210429184801415",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q13",
+      "title": "KQ13 Context 03",
+      "tmap_id": "423cc9b7-26e5-4b30-9e1d-a5ce5acfd1ea",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "In your opinion, it's best to walk to the marketplace, but riding a bike or driving a car are also options, so when giving advice on the matter, you say:",
+    "stanza": "You should walk to the market, but you also can ride a bike or drive a car.",
+    "translation": "Wangagénd’omo bisando eriy’omosóko, náho wanganagéndya ekínga kútse omútoká"
+  },
+  {
+    "metadata": {
+      "created": "20190710092744454",
+      "creator": "Lydia",
+      "modified": "20200924202336001",
+      "modifier": "Lydia",
+      "tags": "associative [[w- (pfx)]] [[Kinande Q02",
+      "title": "KQ2 Context 14",
+      "tmap_id": "d94fc18e-c0a3-49eb-bded-59b520e4dfb8",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context14|kq2_context_14]]": "Kámbére was in a moterbike accident 3 weeks ago, and he sprained his ankle. He is able to walk now. But the doctor told Kambére that he is not allowed to walk until 5 weeks after the accident.",
+    "stanza": "Kámbére can walk now.",
+    "translation": "Kámbére amábyá w’ erításyagend’ omo bisándo\nKambere a-ma-bi-a wa eri-ta-sya-gend-a omo bisando\nKambere 3sg-TM-be-FV of INF-TM-TM-go-FV LNK c8.feet\n\"Kambere is of to go again in feet (literal translation)\"\n\"Kambere can walk now\"\n\n<<list-links filter:\"[tag<currentTiddler>] +[sort[title]]\">>"
+  },
+  {
+    "metadata": {
+      "created": "20191106202746506",
+      "creator": "Lydia",
+      "modified": "20200924202528592",
+      "modifier": "Lydia",
+      "tags": "unglossed deontic [[weak necessity]] contextData [[Kinande Q05",
+      "title": "KQ5 Context 03",
+      "tmap_id": "099a0570-9146-40aa-bd10-ee34d5c61eee",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_3": "Kámbére was in a moterbike accident 3 weeks ago, and he sprained his ankle. He is able to walk now, but it hurts to do so, and so Kámbére doesn’t want to. The doctor says Kámbére ought to start walking to rehabilitate his foot, but he doesn’t absolutely have to yet, if it hurts too much.",
+    "stanza": "Kámbére anganabúnga (Kambere ought to walk) \n\nSmall typo: Kámbéré anganábunga\n\nFrom the translation you give, I would say: Kámbére angabunga \n\n Kámbére angatsuk’eríbúnga ( Kambere should start walking)\n\nKambéré ámabíbyá w’erításyabyá ákábúnga (Kambere is at the stage where he should start walking. Cf.  a-amab-bya (mundu) w’eri-ta-sya-bya a-ka-bung-a."
+  },
+  {
+    "metadata": {
+      "created": "20210301194917555",
+      "creator": "Lydia",
+      "modified": "20210319142430416",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 13",
+      "tmap_id": "24f9b40a-2e77-49ce-bdd6-6f519fb81e09",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "In Uganda, the law states that when you ride a motor bike…",
+    "stanza": "#eríwámbal’esapû (you must wear a helmet)\n\níwámbal’esapû"
+  },
+  {
+    "metadata": {
+      "created": "20210216152712891",
+      "creator": "Lydia",
+      "modified": "20210319151238396",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 07",
+      "tmap_id": "f3fde839-ea4d-4b6e-a8e8-498606a2f470",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Kambale’s parents told him that he is not allowed to go see his friend in Kibangya because it is too far away. You know that Kambale is leaving Kampala next week, but you don’t know where he will go. Kambale is a daring type of guy that often does things that he is not permitted to do. You think:",
+    "stanza": "#Kámbale anapaswa erigenda eKibángya (Kambale may have gone to Kibangya)\n\n\nKámbale anapáswa eríbyá ínagéndir’eKibángya. (anapaswa rather means he must) {{follow up on this||hlo}}\n\n\tKámbale anganábyá ínagéndir’eKibángya (Kambale may have gone to Kibangya)"
+  },
+  {
+    "metadata": {
+      "created": "20190716230251202",
+      "creator": "Lydia",
+      "modified": "20200924202424606",
+      "modifier": "Lydia",
+      "tags": "[[i- (pfx)]] contextData [[Kinande Q03",
+      "title": "KQ3 Context 10",
+      "tmap_id": "089b9c34-9898-45b9-920a-882280277c81",
+      "type": "text/vnd.tiddlywiki",
+      "Context 10|KQ3 Context 10": "Kábunga is the sort of person who needs plenty of sleep in order to be able to work efficiently the next day. He needs at least 8 hours a night or you’re completely useless in the morning."
+    },
+    "stanza": "Kábunga has to sleep at least 8 hours.",
+    "translation": "Kábunga akánz’ ínábugá níkiníki sáha múnaní omotugotséri\nKabunga a-ka-anz-a i-na-bug-a nikiniki saha mu-nani omotugotseri\nKabunga SM.c1-TM-like-FV INF?-TM-finish-FV at.least hours c.18?-eight c13.sleep\n\"Kambale likes to finish at least 8 hours in the sleep (i.e., Kabunga likes to sleep during 8 hours at least)\""
+  },
+  {
+    "metadata": {
+      "created": "20190716215712769",
+      "creator": "Lydia",
+      "modified": "20200924202423992",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q03",
+      "title": "KQ3 Context 04",
+      "tmap_id": "8ad3bb08-8de3-43d6-b789-d9da5f4bdc9c",
+      "type": "text/vnd.tiddlywiki",
+      "Context 4|KQ3 Context 04": "In Uganda, the law states that when you ride a motor bike…"
+    },
+    "stanza": "#Uanganambal’ esapû\nu-anga-na-ambal-a e-sapu\n2sg-MOD-TM-wear-FV c9/3-helmet\n\"you have to wear a helmet\" \n\níwámbal’ esapû\ni-u-ambal-a e-sapu\nC-SM.2sg-wear-FV c9/3-helmet\n\"that you wear a helmet,\" meaning that you have to wear a helmet"
+  },
+  {
+    "metadata": {
+      "created": "20190814210227755",
+      "creator": "Lydia",
+      "modified": "20200924202502105",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 13",
+      "tmap_id": "4af11a68-0986-42d6-a363-880dd7565d50",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_13": "Again just like before, but this time Kambale has broken his leg, and there’s no way he’ll be able to play in the game tomorrow. If he had been able to play, his team would have won for sure.",
+    "stanza": "If Kambale had played tomorrow, he would have won.",
+    "translation": "Kámbalé ngâpík’ oko mupírá k’ omuligóló, angasíngíre\nKambale nga-a-pik-a oko mupira ko omuligolo, a-anga-sing-ire\nKambale COMP-SM.c1-play-FV c17 c3.ball c17 yesterday, SM.c1-MOD-win-TM\n\"If Kambale had played football yesterday, he would have won\""
+  },
+  {
+    "metadata": {
+      "created": "20190814204050390",
+      "creator": "Lydia",
+      "modified": "20200924202501523",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 07",
+      "tmap_id": "c7d61752-d892-48f8-b705-5dde4673115b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_07": "Másikâ’s teacher told her class that it was ok to go swimming, but Másikâ doesn’t want to go because the cannot swim!",
+    "stanza": "*Másiká angáyatsíga\nMasika a-anga-ya-tsig-a\nMasika SM.c1-MOD-go-swim-FV\nIntended: \"Masika can go swimming\"",
+    "phil": "Másiká anganáyatsíga\nMasika a-anga-na-ya-tsig-a\nMasika SM.c1-MOD-TM-go-swim-FV\n\"Masika can go swimming\""
+  },
+  {
+    "metadata": {
+      "created": "20190814203908655",
+      "creator": "Lydia",
+      "modified": "20200924202501369",
+      "modifier": "Lydia",
+      "tags": "[[i- (pfx)]] contextData [[Kinande Q04",
+      "title": "KQ4 Context 06",
+      "tmap_id": "6753aed6-e318-4deb-aba7-4117972e67a5",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_6": "Swera knows how to make Ekihémbe. Now she is in the United States, and she want to make Luwombo, but the right kind of ingredients are not sold where she lives! So she is unhappy because she wanted to show her friends how to make Ekihémbe.",
+    "stanza": "Swera angáhuk’ ekihémbe\nSwera a-anga-huk-a e-ki-hembe\nSwera SM.c1-MOD-cook-FV AUG.c7-c7-bean.soup\n\"Swera can cook Ekihémbe\"",
+    "consultant_comment": "I will complete the sentence with the right tones:\nSwera angahuk’ ekihémbé íkyásiha \nSwera a-anga-huk-a e-ki-hembe i-ki-a-sih-a\nSwera SM.c1-MOD-cook-FV AUG.c7-c7-bean.soup C-SM.c7-TM-be.delicious.FV\n\"Swera can cook the bean soup and it will be delicious\""
+  },
+  {
+    "metadata": {
+      "created": "20190814210006808",
+      "creator": "Lydia",
+      "modified": "20200924202501998",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 12",
+      "tmap_id": "04eada12-0ab4-4531-b41d-e501286bc1fd",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_12": "Like before, Kambale is an excellent soccer player, and his team has a game tomorrow. But unfortunately Kambale is traveling on other business, and probably won’t be able to make it to play in the game (there’s only a small chance he will make it in time). This is a big shame, because if he could make it, his team would definitely win the game.",
+    "stanza": "If Kambale played tomorrow, he would win.",
+    "translation": "Kámbale amasyápik’ oko mupírá k’ omúngyá, ínakándisyásínga\nKambale a-ma-sya-pik-a oko mupira ko omungya, i-na-ka-ndi-sya-sing-a\nKambale SM.c1-TM-TM-play c17 c3.ball c17 tomorrow, C-SM.c1-TM-TM-TM-win-FV\n\"If Kambale plays football tomorrow, he will win\""
+  },
+  {
+    "metadata": {
+      "created": "20190716220714299",
+      "creator": "Lydia",
+      "modified": "20200924202424097",
+      "modifier": "Lydia",
+      "tags": "[[i- (pfx)]] [[strong necessity]] teleological [[Kinande Q03",
+      "title": "KQ3 Context 05",
+      "tmap_id": "7e8bdf95-98ac-4248-a34d-ef3253bd39d1",
+      "type": "text/vnd.tiddlywiki",
+      "Context 5|KQ3 Context 05": "There is only one main road from Kakiri to Kampala",
+      "''Sentence''": "",
+      "Intended": "\"if you want to go to Kampala from Kakiri, you have to take this road\""
+    }
+  },
+  {
+    "metadata": {
+      "created": "20190716230535066",
+      "creator": "Lydia",
+      "modified": "20200924202424698",
+      "modifier": "Lydia",
+      "tags": "teleological possibility [[Kinande Q03",
+      "title": "KQ3 Context 11",
+      "tmap_id": "2ab532be-ceb6-439e-a9d3-fb13f9449665",
+      "type": "text/vnd.tiddlywiki",
+      "Context 11|KQ3 Context 11": "The market is close by, so taking a taxi or walking are both viable options to get there, especially on nice days."
+    },
+    "stanza": "You can walk to the market",
+    "translation": "wanganagénd’ omo bisandó eriy’ omo sóko\nu-anga-na-gend-a omo-bisando eri-y-a omo-soko\nSM.2sg-MOD-TM-go-FV c18-feet INF-go-FV c.18-market\n\"you can walk on foot, to go to the market\""
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.06]]",
+      "created": "20210216152456098",
+      "creator": "Lydia",
+      "modified": "20210319150250051",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 06",
+      "tmap_id": "f5f079d6-abeb-4f0c-96fd-49897bbf6f51",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "There are two ways to get from Entebbe to Kampala: You can take the Kampala-Entebbe expressway or the Kampala-Entebbe road. The expressway is faster, so according to Kambale:",
+    "stanza": "#Wamasond’eriy’eKampálá, unatolere erimy’ekisipirése (If you want to get to Kampala, you should take the expressway.)\n\nWamasond’erihik’eKampálá yó lúbá, útóler’íwímy’ekisipirése \n\nWamasond’erihik’eKampálá yó lúbá, lítóler’íwímy’ekisipirése\n\n(If you want to arrive to Kambale early, you’d better take the expressway)"
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.12]]",
+      "created": "20210225150742966",
+      "creator": "Lydia",
+      "modified": "20210319151053142",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 12",
+      "tmap_id": "0b1bb863-74c6-471f-b4d0-7ce31be11ac1",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Kábunga is not a consistent student, and often skips class on Wednesdays, but he is usually there on Mondays. Today is Monday, and so the professor isn’t entirely sure whether Kábunga will show up, but since it’s Monday and Kábunga is relatively consistent on Mondays, he thinks Kábunga will probably be there.",
+    "stanza": "#Kábunga anatoler'erisya oko kalhásí kó munábwíre (Kabunga should be in class today, based on what we know)\n\nKábunga anátóler'ínása oko kalhásí kó munábwíre\n\nkwámúhwá Kábunga ané omokalhásí mó munábwire, erilebery’oko mígénderó yíwe (kwámúhwa = very probably) (mígéndero = habits, ways of walking)"
+  },
+  {
+    "metadata": {
+      "created": "20191106201532596",
+      "creator": "Lydia",
+      "modified": "20200924202528427",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q05",
+      "title": "KQ5 Context 02",
+      "tmap_id": "d2fe9217-0d6f-4774-b325-5cde2d842158",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_2": "Másikâ’s teacher told her class that they should go swimming because it is good exercise, but Másikâ doesn’t want to go because she cannot swim!",
+    "stanza": "Másiká anganáyatsíga\nMasika a-anga-na-ya-tsig-a\nMasika SM.c1-MOD-TM-go-swim-FV\n\"Másiká should go swimming (though she doesn’t have to)\"",
+    "phil": "Ok. Make it more natural by having it preceded by ihíií  (i.e., yes)"
+  },
+  {
+    "metadata": {
+      "created": "20190710084311247",
+      "creator": "Lydia",
+      "modified": "20200924202329887",
+      "modifier": "Lydia",
+      "tags": "[[i- (pfx)]] -na- [[Kinande Q02",
+      "title": "KQ2 Context 01",
+      "tmap_id": "53a4d746-e2f4-489c-b746-198438db2243",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_1": "In Uganda, the law states that when you ride a motor bike…",
+    "stanza": "You must wear a helmet",
+    "translation": "Unapásw’eryambal’esapû \n/u-na-pasu-a e-ri-ambal-a e-sapu/\n2sg-TM-must?-fv inf-inf-wear-fv c.9/3-helmet\n\nNote that  unapaswa is a loan word from Swahili. I do not know what the Konzo of Uganda would say. Also, esapû is a loan from French Chapeau. Maybe the Konzo would say eleméte (for helmet)\nNow, from the context that you gave, the part you wanted me to translate is: \n\níwámbal’esapû \ni-u-ambal-a e-sapu\nC-2sg-wear-fv c3/9-helmet\n\n(from, … elwá yikábuga yiti esáha ukágend’oko kíngá, íwámbal’esapû.\ne-lwa yi-ka-bug-a yi-ti e-saha u-ka-gend-a oko kinga, i-u-ambal-a e-sapu\nc9-law c9-TM-say c9-COMP  when(also:time) 2sg-TM-go LOC motorbike? C-2sg-wear-fv c9/3-helmet\n\n(Thanks to Hazel for glossing this one!)"
+  },
+  {
+    "metadata": {
+      "created": "20210319151259001",
+      "creator": "Lydia",
+      "modified": "20210319151419567",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q13",
+      "title": "KQ13 Context 02",
+      "tmap_id": "a6d291f9-4325-4254-aea7-86cf89ae35cd",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Kambale’s parents told him that he is not allowed to go see his friend in Kibangya because it is too far away. You know that Kambale is leaving Kampala next week, but you don’t know where he will go. Kambale is a daring type of guy that often does things that he is not permitted to do. You think:",
+    "stanza": "#Kámbale anatoler' inagenda eKibángya (Kambale may have gone to Kibangya)"
+  },
+  {
+    "metadata": {
+      "created": "20210923172206824",
+      "creator": "Lydia",
+      "modified": "20210923172302577",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q13",
+      "title": "KQ13 Context 06",
+      "tmap_id": "957cd589-1f28-4389-911f-278b76a234cf",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "",
+    "stanza": "",
+    "translation": "Every student can read a book now"
+  },
+  {
+    "metadata": {
+      "created": "20190710085202231",
+      "creator": "Lydia",
+      "modified": "20200924202330962",
+      "modifier": "Lydia",
+      "tags": "-na- [[Kinande Q02",
+      "title": "KQ2 Context 05",
+      "tmap_id": "23e81643-ccea-4706-bc75-ba8fee93f429",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context5|kq2_context_05]]": "Kanyerê is still learning how to ride a motor bike. She just started 1 month ago. Her friend tell her that...",
+    "stanza": "Kanyerê should drive slowly.",
+    "translation": "Kúmbe Kanyeré ínagéndyá bolóbólo\nKúmbe Kanyeré í-na-gend-í-a bolóboló \nso.that Kanyere C-TM-go-CAUS-FV slowly\nKanyeré should drive slowly."
+  },
+  {
+    "metadata": {
+      "created": "20190710092447232",
+      "creator": "Lydia",
+      "modified": "20200924202335657",
+      "modifier": "Lydia",
+      "tags": "-na- [[Kinande Q02",
+      "title": "KQ2 Context 11",
+      "tmap_id": "74049c7c-0a44-468f-a7f1-1c93f3e7ee48",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context11|kq2_context_11]]": "Kambale’s parents told him that he is not allowed to go see his friend in Kibangya because it is too far away. You know that Kambale is leaving Kampala next week, but you don’t know where he will go. Kambale is a daring type of guy that often does things that he is not permitted to do. You think:",
+    "stanza": "Kambale may go to Kibangya.",
+    "translation": "Kámbale anganagénd’ eKibángya\nKámbale a-anga-na-gend-a e-Kibángya\nKambale 3sg-MOD-TM-go-FV c24-Kibangya\nKambale may go to Kibangya"
+  },
+  {
+    "metadata": {
+      "created": "20191106204558434",
+      "creator": "Lydia",
+      "modified": "20200924202528916",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q05",
+      "title": "KQ5 Context 06",
+      "tmap_id": "34202dda-e860-4c27-8f10-2fb28d4671ad",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_6": "A player has been hurt in a football match, and the ref is speaking to them, and saying:",
+    "english_sentence": "According to the rules, you can’t play, because your arm is injured.\n\nTranslation: \n\nNgoko reglemá yikábugáaá, síwangasáta (síwangáchéza),\nnga-oko reglema yi-ka-bug-a, si-u-anga-sat-a (si-u-anga-chez-a\nCOMP-COMP c9.rules SM.c9-TM-say-FV, NEG-SM.2sg-MOD-dance-FV (NEG-SM.2sg-MOD-play-FV)\n\"According to the rules, you can't play...\"\n\nkundi w’ ôyó utoníkíre okó kúbóko\nkundi wa?2sg? oyo u-tonik-ire oko kuboko\nbecause ASSOC? RELPRO SM.2sg-hurt-TM c17 c15-arm\n\"because, there you are, you are injured on the arm\"\n\nKundi okúboko kwagu kukálumâ\nkundi o-ku-boko ku-agu ku-ka-lum-a\nbecause AUG.c15-c15-arm c15-your SM.c15-TM-hurt-FV\n\"because your arm hurts\"\n\nKundi wôyó ukwíry’ okó kúbóko\nKundi w-oyo u-kwa-ire oko ku-boko\nbecause 2sg?-REPLRO SM.2sg-hurt-TM c17 c15-arm \"because you are injured on the arm\""
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.02]]",
+      "created": "20210216150309495",
+      "creator": "Lydia",
+      "modified": "20210319145704042",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 02",
+      "tmap_id": "440c221c-aea2-4dd2-a01a-0d644df0aee1",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "There is only one main road from Kakiri to Kampala: The Kampala-Hoima road.",
+    "stanza": "#Wamábyá íwukáy’eKampalá erilw’eKákíri, unatoler’erímy’endáky’eyi (If you go from Kakiri to Kampala, you have to take this road.\n\nWamábyá íwukáy’eKampálá erilw’eKákírí, lítóler’íwímy’endáky’eyi"
+  },
+  {
+    "metadata": {
+      "created": "20190716173228064",
+      "creator": "Lydia",
+      "modified": "20200924202422948",
+      "modifier": "Lydia",
+      "tags": "[[strong necessity]] [[Kinande Q03",
+      "title": "KQ3 Context 01",
+      "tmap_id": "1319c3b7-a794-41cf-b49d-bb1fc58c8f7b",
+      "type": "text/vnd.tiddlywiki",
+      "Context 1|KQ3 Context 01": "Kambale regularly eats dinner at Swera’s restaurant. He never misses a day, even when he is sick. It’s not obligatory for Kambale, he just goes for dinner there every day. It’s dinner time now, so…"
+    },
+    "sentence_1": "*Kámbale angalí éyiry’ erestorá ya Swera\nKambale a-anga-li e-yi-ri e-restora ya Swera\nKambale 3sg-MOD-be c24-c24-be c24-restaurant of Swera\nIntended: \"Kambale must be at Swera’s restaurant\"",
+    "consultant_comment": "No The form angali does not exist in Kinande (it is curious that this exists in Swahili and it would mean ‘he is still at”. But this does not exist in Kinande",
+    "sentence_2": "Kámbale anapáswa eribyá éyiry’ erestorá ya Swera\nKambale a-na-pasw-a eri-bi-a e-yi-ri e-restora ya Swera\nKambale 3sg-TM-must-FV INF-be-FV c24-c24-be c24-restaurant of Swera\n\"Kambale must be at Swera’s restaurant.\""
+  },
+  {
+    "metadata": {
+      "created": "20190814201709673",
+      "creator": "Lydia",
+      "modified": "20200924202500619",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 02",
+      "tmap_id": "8698e818-b879-465f-a319-b21098624535",
+      "type": "text/vnd.tiddlywiki",
+      "Context 2|KQ4 Context 02": "You and a friend are going to an important dinner with some officials who are vegetarian. Your friend explains that you cannot order meat at this restaurant, because it would definitely surprise and offend the vegetarian officials."
+    },
+    "stanza": "Eríry’ enyámá, ryangásángalísy’ abavegetariêns\neri-li-a e-nyama, ri-anga-sangalis-i-a a-ba-vegetariens\nINF-eat-FV AUG.c3-c3.meat, SM.c5-MOD-surprise-TV-FV AUG.c2-c2-vegetarians\n\"To eat meat would surprise the vegetarians\"\n\nok, following preferred:",
+    "phil": "..., érikándisangalisy’ abavegetariêns\neri-ka-ndi-sangalis-i-a a-ba-vegetariens\nINF-TM-TM-surprise-TV-FV AUG.c2-c2-vegetarians\n\"... will surprise the vegetarians.\"",
+    "comment": "That is the way that I would complete the sentence because you are stating it as a fact."
+  },
+  {
+    "metadata": {
+      "created": "20190814202228982",
+      "creator": "Lydia",
+      "modified": "20200924202501075",
+      "modifier": "Lydia",
+      "tags": "associative [[w- (pfx)]] contextData [[Kinande Q04",
+      "title": "KQ4 Context 03",
+      "tmap_id": "18d121bd-860b-4753-bf7e-6d3fa0157cc3",
+      "type": "text/vnd.tiddlywiki",
+      "Context 3": "|KQ4 Context 03]] Swera and Másiká fight and insult each other a lot. Kambale has noticed this and thinks it’s a bad thing, and thinks that they ought to praise each other instead."
+    },
+    "stanza": "Kambale áléngekanáya ati abasíká bangápipana\nKambale a-lengekanay-a a-ti a-ba-sika ba-anga-pip-an-a\nKambale SM.c1-think-FV SM.c1-that AUG.c2-c2-girl SM.c2-MOD-praise-RCM-FV\n\"Kambale thought that the girls should praise each other\"\nOk. This is acceptable as an answer\n\nThe full sentence that I would say:\nómwanyá w’ eríbyá bákásongokoláná, kúmb’ íbabyá bákapipána\nomwanya wa eri-bi-a ba-ka-songokol-an-a kumbe i-ba-bi-a ba-ka-pip-an-a\ninstead ASSOC INF-be-FV SM.c2-TM-fight-RCM-FV better.that C-SM.c2-be-FV SM.c2-TM-praise-RCM-FV\nInstead of to be they fight-each other, it-is-better that they-be they-praise each other\nInstead of fighting they should rather be praising each other."
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.03]]",
+      "created": "20210216150550507",
+      "creator": "Lydia",
+      "modified": "20210319145809077",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 03",
+      "tmap_id": "67a223b2-ff00-4710-aacf-96d1828ac1ce",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Kambale regularly eats dinner at Swera’s restaurant. He never misses a day, even when he is sick. It’s not obligatory for Kambale, he just goes for dinner there every day. It’s dinner time now, so…",
+    "stanza": "#Kámbale anatolere eribyá éyiry’ erestorá ya Swera (Kambale must be at Swera's restaurant)\n\nKámbale ámátolerá ng’aly’ éyiry’ erestorá ya Swera\n       \n\n kwámúhwá Kámbale ané éyiry’ erestorá ya Swera. (kwámúhwa = very probably)"
+  },
+  {
+    "metadata": {
+      "created": "20191106210438511",
+      "creator": "Lydia",
+      "list": "",
+      "modified": "20200924202529020",
+      "modifier": "Lydia",
+      "tags": "mupaka contextData [[strong necessity]] [[Kinande Q05",
+      "title": "KQ5 Context 07",
+      "tmap_id": "098ca4da-b67f-469f-8de4-d7145ae301b3",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_7": "You walk into a store because you really need to use the bathroom. You tell the teller that you promise to buy something after you use the restroom. She replies:",
+    "english_sentence": "It’s ok, you don’t have to buy anything.",
+    "translation": "Uby’ ahó mbolere. Síbalíbug’ ambu unágúle kandu kálébe\nU-bi-a aho mbolere. Si-ba-li-bug-a ambu u-na-gul-e ka-ndu ka-lebe\nSM.2sg-be-FV there calm. NEG-SM.c2-be??-say-FV that SM.2sg-TM-buy-SBJ c12-thing c12-certain\n\"Stay there calmly, they do not say that you buy some small thing\"\n\nIkalá mbolere. Síbabúgíry’ ambu mupáka úgúle kandu kálébe\nI-kal-a mbolere. Si-ba-bug-ire ambu mupaka u-gul-e ka-ndu ka-lebe\nINF?-sit-FV calm. NEG-SM.c2-say-TM that MUST SM.2sg-buy-SBJ c12-thing c12-certain\n\"Sit calmy. They do not say that you buy a small thing.\"",
+    "consultant_comment": "Mupaka is a loan word from Swahili. It means limit. But in Kinande, it precedes a sentence where one is obliged to …. Cf. they do not say that you must buy a small thing"
+  },
+  {
+    "metadata": {
+      "created": "20190710092103519",
+      "creator": "Lydia",
+      "modified": "20200924202335525",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q02",
+      "title": "KQ2 Context 10",
+      "tmap_id": "4fb7611f-5683-47ec-8aeb-d98d5d521b7d",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context10|kq2_context_10]]": "You know that Kábunga works in his office from 8am – 12pm every morning. He usually doesn’t miss a day of work. It’s now 9am. You say:",
+    "stanza": "Kábunga should be in his office now.",
+    "translation": "Ngeryo Kábunga ané omobiró mó lino\nNgeryo Kábunga a-né omobiró mó lino\nprobably Kabunga 3sg-be c3.office now\nprobably Kabunga is in the office now.\n\nNote that biro is a loan from French, the Konzo might use a different word."
+  },
+  {
+    "metadata": {
+      "created": "20190710085054713",
+      "modified": "20200924202330864",
+      "tags": "-na- [[Kinande Q02",
+      "title": "KQ2 Context 04",
+      "tmap_id": "afbdd438-0958-4393-a3f3-0727a18295bc",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context4|kq2_context_04]]": "Kábunga is not a consistent student. The professor never knows if he will come to class or not. Today, it is time to start class and he has not shown up yet.",
+    "stanza": "Kábunga might be coming to class today.",
+    "translation": "Kábunga anganás’oko kalhásí kó munábwíre\nKabunga a-anga-na?-come loc class LNK today"
+  },
+  {
+    "metadata": {
+      "created": "20210430160655912",
+      "creator": "Lydia",
+      "modified": "20210430160732505",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q13",
+      "title": "KQ13 Context 05",
+      "tmap_id": "0bb19256-4682-4719-8c71-205385638a40",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "EPISTEMIC WEAK NEC/STRONG NEC",
+    "stanza": "ASSOC",
+    "translation": ""
+  },
+  {
+    "metadata": {
+      "created": "20190710092548926",
+      "creator": "Lydia",
+      "modified": "20200924202335746",
+      "modifier": "Lydia",
+      "tags": "-na- [[Kinande Q02",
+      "title": "KQ2 Context 12",
+      "tmap_id": "e2a8cbbb-9d0e-4a0d-9ff8-a333ed0a7bac",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context12|kq2_context_12]]": "Swera knows how to make Luwombo. Now she is in the United States, and she want to make Luwombo, but the right kind of ingredients are not sold where she lives! So she is unhappy because she wanted to show her friends how to make Luwombo.",
+    "stanza": "Swera can make Luwombo.",
+    "translation": "Swera anásy’ eríhuk’ oluwómbo\nSwera a-na-si-a eri-huk-a oluwombo\nSwera 3sg-TM-know-FV INF-cook-FV c11.luwombo\n\"Swera knows to cook Luwombo\""
+  },
+  {
+    "metadata": {
+      "created": "20190710085316488",
+      "modified": "20200924202331071",
+      "tags": "contextData [[i- (pfx)]] deontic possibility [[Kinande Q02",
+      "title": "KQ2 Context 06",
+      "tmap_id": "107f04dd-69ae-4f0a-8959-5697798fe97b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context6|kq2_context_06]]": "You are making plans for tomorrow night to get together with your friend. Your friend says:",
+    "stanza": "You can stay overnight or you can go home (either is acceptable to him).",
+    "translation": "Wamasondá íwakésyá kútsé íwasub’ékâ (ukándíkolá ng’okó wánzire)\nu-a-ma-sond-a i-u-a-kesy-a kutse i-u-a-sub-a eka\n2sg-TM-TM-want-fv C-2sg-TM-sleep-fv here? C-2sg-TM-repeat/return?-fv Home\n\nWamatak’íwakésyá kúts’íwasub’ékâ \nu-a-ma-tak-a i-u-a-kesy-a kutse i-u-a-sub-a eka\n2sg-TM-TM-want-fv C-2sg-TM-sleep-fv here? C-2sg-TM-repeat/return?-fv Home\n\n(The verb eritáka is probably a loan from Swahili)"
+  },
+  {
+    "metadata": {
+      "created": "20191106212144609",
+      "creator": "Lydia",
+      "modified": "20200924202529461",
+      "modifier": "Lydia",
+      "tags": "[[strong necessity]] [[Kinande Q05",
+      "title": "KQ5 Context 11",
+      "tmap_id": "5c57aad4-ac11-4c75-bc2f-3138552b14d6",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_11": "Kámbére also notices his lunch is missing, and somehow comes to the conclusion that Swera ate it. But there lots of other people in the office, and it could have been anyone. You say:",
+    "english_sentence": "Swera doesn’t have to have eaten your food. It might have been someone else.",
+    "translation": "Swera syángábyá íyówalyá ebyályá byagu. Byanganábyá ibyalibáwa ná wundi múndu\nSwera si-a-anga-bi-a i-yo-w-a-li-a e-bi-alya bi-yagu. Bi-anga-na-bi-a i-bi-a-li-baw-a na wundi mundu\nSwera NEG-SM.c1-MOD-be-FV C?-REL-SM.c1-TM-eat-FV c8-c8-food c8-your. c8-MOD-NA-be-FV C?-SM.c8-TM-eat-PASS-FV by c1.another c1.person\n\"Swera cannot be the one who ate your food. It can have been it be eaten by another person\""
+  },
+  {
+    "metadata": {
+      "created": "20191106204328224",
+      "creator": "Lydia",
+      "modified": "20200924202528784",
+      "modifier": "Lydia",
+      "tags": "contextData circumstantial [[weak necessity]] [[Kinande Q05",
+      "title": "KQ5 Context 05",
+      "tmap_id": "d47a04fd-25f9-4e5d-8cc4-d1ff8b1682d8",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_5": "You and a friend are going to an important dinner with some officials who are vegetarian. Your friend explains that you cannot order meat at this restaurant, because it would probably surprise and offend the vegetarian officials. There’s a chance that they will not be surprised or upset, but it’s very unlikely.",
+    "stanza": "Eríry’ enyámá, ryangásángalísy’ abavegetariêns\neri-li-a e-nyama, ri-anga-sangalis-i-a a-ba-vegetariens\nINF-eat-FV AUG.c3-c3.meat, SM.c5-MOD-surprise-TV-FV AUG.c2-c2-vegetarians\n\"To eat meat would surprise the vegetarians\"\n\nok"
+  },
+  {
+    "metadata": {
+      "created": "20210208163424301",
+      "creator": "Lydia",
+      "modified": "20210318182407613",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 01",
+      "tmap_id": "cae6ac10-765c-409a-be9d-af31b17d0e5b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "You have been visiting your friend in Butembo, and it's getting late. It's a long trip home, and you aren't looking forward to how long it will be, and how late at night you'll arrive home. Your friend notices, and says that you are welcome to stay the night if you prefer, saying:",
+    "stanza": "Wamasondá íwakésyâ\n\nindí náho táhi, wamasondá wanganákésyâ   (I say, my dear friend, if you want, you can sleep.)"
+  },
+  {
+    "metadata": {
+      "created": "20190716213931585",
+      "creator": "Lydia",
+      "modified": "20200924202423674",
+      "modifier": "Lydia",
+      "tags": "circumstantial [[strong necessity]] [[Kinande Q03",
+      "title": "KQ3 Context 02",
+      "tmap_id": "4ef67726-f0bd-4606-8b65-4136d6954f67",
+      "type": "text/vnd.tiddlywiki",
+      "Context 2|KQ3 Context 02": "You are riding the bus with a friend to Kampala. Yo have not had a chance to go to the toilet for 6 hours, and your bladder is very full. You tell your friend"
+    },
+    "stanza": "#ngáangasubalâ \nnga-anga-subal-a\nSM.1sg-MOD-pee-FV\n\"I have to pee.\" \n\nngáyasubalâ\nnga-ya-subal-a\nSM.1sg-TM-pee-FV\n\"I am going to pee.\"\n\nleká nyísúbale \nlek-a n-yi-subal-e\nleave-FV SM.1sg-RFM-pee-SUBJ/FV\n\"let me pee first,\" literally, \"let that I pee\"\n\nleká nyitsúké erisubala\nlek-a n-yi-tsuk-e eri-subal-a\nleave-FV SM.1sg-RFM-begin-SUBJ/FV INF-pee-FV\n\"wait that I begin to pee (first)\""
+  },
+  {
+    "metadata": {
+      "created": "20190814201216150",
+      "creator": "Lydia",
+      "modified": "20200924202500251",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q04",
+      "title": "KQ4 Context 01",
+      "tmap_id": "82f86d53-7806-4524-a544-8d65ec044151",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_1": "You have a heart condition, and so to keep in good health, your doctor recommends a change in diet. Specifically, he says that you should eat less meat, because sometimes it can cause your hear to palpitate. You can still eat it sometimes, but you need to be careful, because:",
+    "stanza": "Eríry’ enyamá yangalokyalóky’ omútíma\neri-li-a e-nyama y-anga-lokyalok-y-a o-mutima\nINF-eat-FV c9.meat SM.c9-MOD-palpitate-TV-FV AUG.c3-c3.heart\n\"to eat meat could upset the heart\"",
+    "judgment": "ok"
+  },
+  {
+    "metadata": {
+      "created": "20190716214857545",
+      "creator": "Lydia",
+      "modified": "20200924202423791",
+      "modifier": "Lydia",
+      "tags": "deontic [[weak necessity]] [[Kinande Q03",
+      "title": "KQ3 Context 03",
+      "tmap_id": "8747e42f-45cd-4e30-9052-0a2be7e27918",
+      "type": "text/vnd.tiddlywiki",
+      "Context 3|KQ3 Context 03": "Kanyerê is still learning how to ride a motor bike. She just started 1 month ago. Her friend tell her that…"
+    },
+    "stanza": "#Kanyeré angagéndyá bolóbólo\nKanyere a-anga-gend-i-a bolobolo\nKanyere SM.c1-MOD-go-TV-FV slowly\n\"Kanyeré should drive slowly\"\n\nkúmbe Kanyeré ínabyá ákagendyá bolóbólo\nkumbe Kanyere i-na-bi-a a-ka-gend-i-a bolobolo\nbetter.that Kanyere C-TM-be-FV SM.c1-TM-go-TV-FV slowly\n\"It is better that Kanyere be riding slowly\""
+  },
+  {
+    "metadata": {
+      "created": "20210302145120612",
+      "creator": "Lydia",
+      "modified": "20210319142535877",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 14",
+      "tmap_id": "06fe9ddc-9ceb-4a83-9224-52d6f8769a5b",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "question": "Does Kinande have an equivalent of \"No NP\" structures? Like in the following:",
+    "stanza": "No student bought a book.",
+    "translation": "síhalí n’omukolhó no múgumá oyó wagula ekitábhu \n\n\n\tsihábyá mukolho wagula kitábhu"
+  },
+  {
+    "metadata": {
+      "created": "20191106203926978",
+      "creator": "Lydia",
+      "modified": "20200924202528685",
+      "modifier": "Lydia",
+      "tags": "unglossed circumstantial anga [[weak necessity]] contextData [[Kinande Q05",
+      "title": "KQ5 Context 04",
+      "tmap_id": "542cddc8-9c98-4d67-b2ad-d8a5c124ddc0",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_4": "The market is close by, so taking a taxi or walking are both viable options to get there, especially on nice days. But it’s best to walk, because it’s good for your health and better for the environment.",
+    "stanza": "wanganagénd’omo bisandó eriy’omosóko (you should walk on foot to go to the market)\n\nOk.  Wanganagénd’omo bisando eriy’omosóko  (Notice that I deleted the H tone on bisando"
+  },
+  {
+    "metadata": {
+      "created": "20191106211906504",
+      "creator": "Lydia",
+      "modified": "20200924202529357",
+      "modifier": "Lydia",
+      "tags": "[[relative clause]] [[Kinande Q05",
+      "title": "KQ5 Context 10",
+      "tmap_id": "891a0991-64a2-4317-8bb3-5ea04353f485",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_10": "Swera notices that her lunch has vanished, and wonders whether Másiká ate them. You know that Másiká has been gone all day, so she couldn’t have eaten Swera’s lunch. You say:",
+    "english_sentence": "Másiká can’t have eaten your food, because she’s been gone all day",
+    "translation": "Másiká syángábyá íyowály’ ebyályá byagu, ...\nMasika si-a-anga-bi-a i-o-w-a-li-a e-bi-alya bi-agu\nMasika NEG-SM.c1-MOD-be-FV C?-REL-SM.c1?-TM?-eat AUG.c8-c8-food c8-your\n\"Masika can’t be the one who ate your food...\"\n\nkundi aby’ ásibiry’ eyíhyá \nkundi a-bi-a a-sibir-a eyihya\nbecause SM.c1-be-FV SM.c1-spend.time-FV outside\n\"...because she stayed out, (i.e. she stayed outside all day long)\"\n\nkundi abyá ínagéndire omw’ itúngi ryosî\nkundi a-bi-a i-na-gend-ire omo i-tungi ry-osi\nbecause SM.c1-be-FV C-SM.c1-go-TM c18 c5-daylight c5-all\n\"... because she was that went in the whole daylight\"\n\nkundi aby' ágendire omw itúngi ryosî\nkundi a-bi-a a-gend-ire omo i-tungi ry-osi\nbecause SM.c1-be-FV SM.c1-go-TM c18 c5-daylight c5-all\n\"...because she had gone in the whole daylight\""
+  },
+  {
+    "metadata": {
+      "created": "20190710091431738",
+      "list": "",
+      "modified": "20200924202331171",
+      "tags": "[[Kinande Q02",
+      "title": "KQ2 Context 07",
+      "tmap_id": "bfa3f6f0-bfb2-41dc-a6e5-9fc07ad7c213",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context7|kq2_context_07]]": "There are two ways to get from Entebbe to Kampala: You can take the Kampala-Entebbe expressway or the Kampala-Entebbe road. The expressway is faster, so according to Kambale:",
+    "stanza": "If you want to get to Kampala, you should take the expressway.",
+    "translation": "Wamasond’eriy’eKampálá, kúmbé íwímy’ekisipirése  (ekisipirese is a loan word.)\nu-a-ma-sond-a eri-ya e-Kampala kumbe i-u-imya ekisiprirese\n2sg-TM-TM-want-fv inf-go loc?-kampala so.that C-2sg-take expressway"
+  },
+  {
+    "metadata": {
+      "created": "20190710092648483",
+      "creator": "Lydia",
+      "modified": "20200924202335839",
+      "modifier": "Lydia",
+      "tags": "-na- [[Kinande Q02",
+      "title": "KQ2 Context 13",
+      "tmap_id": "4b364ae4-01b2-47d6-b3d2-9954b84f6571",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context13|kq2_context_13]]": "Másikâ’s teacher told her class that it was ok to go swimming, but Másikâ doesn’t want to go because the cannot swim!",
+    "stanza": "Másikâ can go swimming.",
+    "translation": "Másiká anganáyatsíga\nMásiká a-anga-na-ya-tsíg-a\nMasika 3sg-MOD-TM-go-swim-FV\n\"Masika can go swimming\"",
+    "consultant_comment": "here the teacher gives her the permission to go swimming"
+  },
+  {
+    "metadata": {
+      "created": "20210430121017425",
+      "creator": "Lydia",
+      "modified": "20210430121700020",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q13",
+      "title": "KQ13 Context 04",
+      "tmap_id": "269a57ca-01df-4f9d-a43a-667ec19ec237",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "You have a dilemma: You are supposed to visit Swera for dinner this evening, but you are also supposed to attend your son's football/soccer game. You can't do both. There are no significant consequences either way, but you don't know how to pick between your obligations.",
+    "stanza": "I should visit Swera and I should go to the game. I don't know how to choose!",
+    "translation": ""
+  },
+  {
+    "metadata": {
+      "created": "20191106211235280",
+      "creator": "Lydia",
+      "list": "",
+      "modified": "20200924202529262",
+      "modifier": "Lydia",
+      "tags": "mupaka teleological [[strong necessity]] contextData [[Kinande Q05",
+      "title": "KQ5 Context 09",
+      "tmap_id": "71c61bfd-c021-409c-87e3-7da5b3622cfe",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_9": "You want to lose weight and be healthier, but you don’t like exercising. Your friend tells you:",
+    "english_sentence": "You don’t have to exercise to lose weight, you can go on a diet instead.",
+    "tanslation": "Síbalíbug’ ambu mupáká ubyé úkayikakyâ ímówabonda, wanganábyá úkálya emísómboleré y’ ebyályâ \nsi-ba-li-bug-a ambu mupaka u-bi-e u-ka-yi-kaky-a imowabonda, u-anga-na-bi-a u-ka-li-a emisombolere ya ebyalya\nNEG-SM.c2-TM-say-FV that must SM.2sg-be-SBJ SM.2sg-TM-RFM-stretch-FV thin, SM.2sg-MOD-TM-be-FV SM.2sg-TM-eat-FV choices ASSOC food\n\"They do not say that you must be stretching yourself so that you become thin, you can be eating choices of food\"\n\nwanganábyá ukálya byályá bíkébíkê (you can be eating food small small)"
+  },
+  {
+    "metadata": {
+      "created": "20191106210809692",
+      "creator": "Lydia",
+      "modified": "20200924202529150",
+      "modifier": "Lydia",
+      "tags": "[[relative clause]] [[Kinande Q05",
+      "title": "KQ5 Context 08",
+      "tmap_id": "5a223ea6-d324-4092-8d4d-c146c76c3024",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_8": "Kámbére recently got hurt in a motorbike accident where he sprained his ankle. Now it hurts too much to walk on it.",
+    "english_sentence": "Kámbére can’t walk.",
+    "translation": "Kámbére syángábúnga\nKambere si-a-anga-bung-a\nKambere NEG-SM.c1-MOD-walk-FV\n\"Kambere can't walk.\"\n\nKámbére syályábyá w’ eríbúnga\nKambere si-a-li-a-bi-a wa eri-bung-a\nKambere NEG-SM.c1-be?-TM?-be-FV ASSOC? INF-walk-FV\n\"Kambere can't walk.\"\n\nKámbére syályábyá w’ erítsuk’ eríbúnga\nKambere si-a-li-a-bi-a wa eri-tusk-a eri-bung-a\nKambere NEG-SM.c1-be?-FV?-be-FV ASSOC? INF-begin-FV INF-walk-FV\n\"Kambere can't walk.\""
+  },
+  {
+    "metadata": {
+      "created": "20190710091950817",
+      "creator": "Lydia",
+      "modified": "20200924202335305",
+      "modifier": "Lydia",
+      "tags": "[[w- (pfx)]] associative sya- erilwe [[Kinande Q02",
+      "title": "KQ2 Context 09",
+      "tmap_id": "2b44c51e-8d6a-4fa1-b020-33d56293ff86",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context9|kq2_context_09]]": "Kámbére’s parents are concerned about how he is doing in school. They want him to succeed in all the subjects. But Kámbére wants to play football all the time instead of doing his homework. His parents order him:",
+    "stanza": "You ought to finish your homework before playing football.",
+    "translation": "Úlwe mundú w’eríbuga omubirí wawú, emberé sy’ eriyasat’ oko mupírâ\nU-lu-e mundu wa eri-bug-a omubiri wawu, emberé sya eri-ya-sat-a oko mupira\n2sg-be-FV person ASSOC? INF-finish-FV c3.work c3-your, before ???-INF-go-dance-FV PREP c3.ball\nYou are a person to finish your work, before you go and dance at the ball (literal translation)\n\nTátsuk’ eríbug’omubirí wawú, emberé sy’ eriyasat’ oko mupíra\nTa-tsuk-a eri-bug-a omubiri wawu, embere sya eri-ya-sat-a oko mupira\nTM-begin-FV INF-finish-FV c3.work c3-your before of INF-go-dance-FV LNK c3.ball\nBegin to finish your work  before you go and play the ball (literal translation)"
+  },
+  {
+    "metadata": {
+      "created": "20190710091701030",
+      "creator": "Lydia",
+      "modified": "20200924202331289",
+      "modifier": "Lydia",
+      "tags": "[[-e (sfx)]] -na- [[Kinande Q02",
+      "title": "KQ2 Context 08",
+      "tmap_id": "53c22a91-3e33-4daf-a9cb-747f413ab1fb",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "[[context8|kq2_context_08]]": "There is only one main road from Kakiri to Kampala: The Kampala-Hoima road.",
+    "stanza": "If you go from Kakiri to Kampala, you have to take this road.",
+    "translation": "Wamábyá íwukáy’eKampalá erilw’eKákíri, unapásw’erímy’endáky’eyi\nu-a-ma-bi-a i-u-ka-ya e-Kampalá eri-lu-a e-Kakiri u-na-pasw-a eri-im-i-a endakya e-yi\n2sg-TM-TM-TM-be-fv C-2sg-pres-go c24-Kampala INF-leave-fv c24-Kakiri 2sg-TM-MODAL-fv inf-take-CAUS-FV c9.road c9-this\n\"If you go to Kampala from Kakiri, you have to take this road.\"\n\nWamábyá íwukáy’eKampalá erilw’eKákíri, wímáy’endáky’eyi\nu-a-ma-bi-a i-u-ka-ya e-Kampala eri-lu-a e-Kakiri, u-im-a-i-e endakya e-yi\n2sg-TM-TM-TM-be-FV C-2sg-TM-go c24-Kampala INF-leave-FV c24-Kakiri, 2sg-take-CAUS-FV c9.road c9-this\n\"If you go to Kampala from Kakiri, you take this road.\"",
+    "consultant_comment": "/u-im-a-i-e/ from eri-im-i-a to take"
+  },
+  {
+    "metadata": {
+      "created": "20190716224849796",
+      "creator": "Lydia",
+      "modified": "20200924202424408",
+      "modifier": "Lydia",
+      "tags": "possibility epistemic contextData [[Kinande Q03",
+      "title": "KQ3 Context 08",
+      "tmap_id": "b4ae3222-a50a-4fef-9de1-7f13eebb3dac",
+      "type": "text/vnd.tiddlywiki",
+      "Context 8|KQ3 Context 08": "Kambale’s parents told him that he is not allowed to go see his friend in Kibangya because it is too far away. You know that Kambale is leaving Kampala next week, but you don’t know where he will go. Kambale is a daring type of guy that often does things that he is not permitted to do. You think"
+    },
+    "stanza": "#Kámbale anapaswa erigenda eKibángya\nKambale a-na-pasw-a eri-gend-a e-Kibangya\nKambale SM.c1-TM-must-FV INF-go-FV c24-Kibangya\n\"Kambale may go to Kibangya\"",
+    "consultant_comment": "Maybe you meant:\n\nKámbale anganábyá ínáyire eKibángya\nKambale a-anga-na-bi-a i-na-y-ire e-Kibangya\nKambale SM.c1-MOD-TM-be-FV C-TM-go-TM c24-Kibangya\n\"Kambale may have gone to Kibangya\""
+  },
+  {
+    "metadata": {
+      "created": "20190716225633604",
+      "creator": "Lydia",
+      "modified": "20200924202424509",
+      "modifier": "Lydia",
+      "tags": "eripaswa [[Kinande Q03",
+      "title": "KQ3 Context 09",
+      "tmap_id": "4a75dcf9-eb33-4e02-8e04-2c2442e851cc",
+      "type": "text/vnd.tiddlywiki",
+      "Context 9|KQ3 Context 09": "Másikâ’s teacher told her class that it was ok to go swimming, but Másikâ doesn’t want to go because the cannot swim!"
+    },
+    "stanza": "Másiká anapaswa eríyatsíga\nMasika a-na-pasw-a eri-yatsig-a\nMasika SM.c1-TM-must-FV INF-swim-FV\n\"Masika may go swimming\"",
+    "consultant_comment": "this is acceptable, however I would say:\n\nMásiká anganáyatsigá ná bandi\nMasika a-anga-na-yatsig-a na bandi\nMasika SM.c1-MOD-TM-swim-FV with c2.other\n\"Masika may go and swim with the others\""
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.08]]",
+      "created": "20210218190043734",
+      "creator": "Lydia",
+      "modified": "20210319150641489",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 08",
+      "tmap_id": "e963ad0e-c593-435e-bc2a-b831e47c8f67",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "Kámbére was in a moterbike accident 3 weeks ago, and he sprained his ankle. He is able to walk now. But the doctor told Kambére that he is not allowed to walk until 5 weeks after the accident.",
+    "stanza": "#Kámbére anatoler'eribúnga (Kambere can walk)\n\nKámbére anganábunga, áliyé omúnganga wíwe ati syályábya mundu oyutoler eríbúngá háté háhwa mayéng’âtáno (Kambere can walk, but his doctor says that he is not the person who should walk before 5 weeks (ha-te = c16-not) (ha-hwa = c16-finish) (ma-yenga = weeks) atano =5 weeks."
+  },
+  {
+    "metadata": {
+      "created": "20190814204546486",
+      "creator": "Lydia",
+      "modified": "20200924202501613",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 08",
+      "tmap_id": "2b758122-a694-4a74-998a-aa4bb2681f8f",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_08": "The market is close by, so taking a taxi or walking are both viable options to get there, especially on nice days.",
+    "stanza": "*wangagénd’ omo bisandó eriy’ omo sóko \nu-anga-gend-a omo bisando eri-y-a omo soko\nSM.2sg-MOD-go-FV PREP.c18 foot INF-go-FV PREP.c18 market\n\"You can go on foot to go to the market\"",
+    "phil": "wanganagén’ omo bisando eriy’ omo sóko \nu-anga-na-gend-a omo bisando eri-y-a omo soko\nSM.2sg-MOD-TM-go-FV PREP.c18 foot INF-go-FV PREP.c18 market\n\"You can go on foot to go to the  market.\"\n\nHowever, this would be ok:\nwangagénd’ omó mútoká kútsy’ omobisándo, íwukándihiká ndeke\nu-anga-gend-a omo mutoka kutse omo bisando, i-u-ka-ndi-hik-a ndeke\nSM.2sg-MOD-go-FV PREP.c18 car or PREP.c18 foot, C-SM.2sg-TM-TM-arrive-FV well\n\"Whether you go by car or on foot, you will get there well.\""
+  },
+  {
+    "metadata": {
+      "created": "20190814205009601",
+      "creator": "Lydia",
+      "modified": "20200924202501705",
+      "modifier": "Lydia",
+      "tags": "contextData [[Kinande Q04",
+      "title": "KQ4 Context 09",
+      "tmap_id": "df25f5ec-1488-4eea-990e-9d9b139d8754",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_09": "Kábunga is not a consistent student. The professor never knows if he will come to class or not. Today, it is time to start class and he has not shown up yet.",
+    "stanza": "*Kábunga angas’ oko kalhásí kó munábwíre\nKabunga a-anga-sy-a oko kalhasi ko munabwire\nKabunga SM.c1-MOD-come-FV c17 class c17 today\nIntended: \"Kábunga might be coming to class today.\"",
+    "phil": "Kábunga anganás’ oko kalhásí kó munábwíre\nKabunga a-anga-na-sy-a oko kalhasi ko munabwire\nKabunga SM.c1-MOD-TM-come-FV c17 class c17 today\n\"Kabunga might come to class today\""
+  },
+  {
+    "metadata": {
+      "aliases": "[[12.09]]",
+      "created": "20210218190347711",
+      "creator": "Lydia",
+      "modified": "20210319150421892",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q12",
+      "title": "KQ12 Context 09",
+      "tmap_id": "5daf8f73-2866-496e-a618-0e5ef745850a",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context": "The market is close by, so taking a taxi or walking are both viable options to get there, especially on nice days.",
+    "stanza": "#utolere erigénd’ omo bisandó eriy’ omo sóko (you can walk to get to the market)\n\nwanganagénd’ omo bisando eriy’ omo sóko"
+  },
+  {
+    "metadata": {
+      "created": "20200224183030731",
+      "creator": "Lydia",
+      "modified": "20200924202600742",
+      "modifier": "Lydia",
+      "tags": "contextData [[weak necessity]] deontic [[-e (sfx)]] anga [[Kinande Q06",
+      "title": "KQ6 Context 08",
+      "tmap_id": "57461d1f-b865-4283-96d9-56c35eff8095",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_8": "You see a family throwing away all of their healthy food, but keeping the junk food that’s bad for them.",
+    "stanza": "They are throwing away all of the food that they should eat.",
+    "translation": "bámabyá bakagusá n’ ebyály’ ebyó bangalia\nba-ma-bi-a ba-ka-gus-a na ebyala ebyo ba-anga-li-a\nSM.c2-TM-be-FV SM.c2-TM-throw.away-FV even food which SM.c2-MOD-eat-FV\n\"They are throwing away the food which they can/should eat\"\n\nbámabyá bakagusá n’ebyály’ebyó bangalia; íbasigá n’ebindi\nba-ma-bi-a ba-ka-gus-a na ebyala ebyo ba-anga-li-a; i-ba-sig-a na ebindi\nSM.c2-TM-be-FV SM.c2-TM-throw.away-FV even food which SM.c2-MOD-eat-FV; C-SM.c2-leave-FV of?\n c8.other\n\"they are throwing out the food that they should eat and leaving other food\"\n\nmóbábábwíre ambu bagúsé ebyályá byosí ébyuwéné, bútsírá ébituwénê\nmo-ba-ba-bwir-ire ambu ba-gus-e ebyalya byosi ebyuwene, butsira ebituwene\nTM-SM.c2-OM.c2-tell-TM that SM.c2-throw.away-SBJ food c8.all c8.be.good, without c8.be.not.good\n\"they were told to throw away all of the food that was good, but not that which was not good.\""
+  },
+  {
+    "metadata": {
+      "created": "20200909161941062",
+      "creator": "Lydia",
+      "modified": "20200921151136031",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 20",
+      "tmap_id": "a709eb01-e73c-44d7-81ad-bea29ce5f8c7",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_20": "You are telling me about what you usually do on a daily basis.",
+    "stanza": "Usually I wake up and then I brush my teeth.",
+    "translation": "ngábyá nábúká ínásúgusa amagetsé ngéry’ ámeno wage<be>\nng-a-bi-a na-buk-a i-na-sugus-a a-ma-getse n-gery-a a-meno wage\nSM.1sg-TM-be-fv and-wake.up-FV C-TM-rinse-FV AUG-c6-mouth SM-1sg-taste-FV c6-teeth my\n\"I wake up in the morning and brush my teeth\"\n\nngábyá nábúká ngéray’ ámeno wagé nasugus’ amagétse\nng-a-bi-a na-buk-a n-geray-a a-meno wage na-sugus-a a-ma-gestse\nSM.1sg-TM-be-FV and-wake.up-FV SM.1sg-taste-FV c6-teeth my and-rinse-FV AUG-c6-mouth\n\"I wake up in the mornign and brush my teeth.\""
+  },
+  {
+    "metadata": {
+      "created": "20200909153245770",
+      "creator": "Lydia",
+      "modified": "20220628215319735",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 08",
+      "tmap_id": "d005da13-55f4-4689-860f-5af2c85302ba",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_08": "You are shopping for books for school, and one of the workers at the bookstore is helping you find the books you need. As you are walking past a shelf of books, the worker picks up a book and explains that it frequently sells out, so if it’s one of the books you are supposed to read, you should buy it today while they still have stock.",
+    "stanza": "If you should read this book for school, you should buy it today.",
+    "translation": "wamábyá íwukándisyasom’ ekitábw’ ekí ky’ ekalhásí, kúmbé íwakígúlá munábwíre\nu-a-ma-bi-a i-u-ka-ndi-sya-som-a e-kitabu eki kyo ekalhasi, kumbe i-u-a-ki-gul-a munabwire\nSM.2sg-TM-TM-be-FV C-SM.2sg-TM-TM-TM-read-FV AUG-c7.book c7.this PREp class, better.that C-SM.2sg-TM-OM.c7-buy-FV today\n\"If you should read this book for school, you should buy it today.\""
+  },
+  {
+    "metadata": {
+      "created": "20200302192815108",
+      "creator": "Lydia",
+      "modified": "20200924202628659",
+      "modifier": "Lydia",
+      "tags": "associative [[w- (pfx)]] [[downward entailing]] negated anga [[weak necessity]] deontic contextData [[Kinande Q07",
+      "title": "KQ7 Context 18",
+      "tmap_id": "b554d53b-9def-4437-855c-0fe7db70b426",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_18": "Kámbére recently got hurt in a motorbike accident where he sprained his angle. Now it hurts to walk on it much, though he can walk some. The doctor tells him that he should avoid walking on it for a few weeks while it heals.",
+    "stanza": "Kámbére shouldn’t walk.",
+    "translation": "Kámbére syángábúnga\nKambere si-anga-bung-a\nKambere NEG-MOD-walk-FV\n\"Kambere can't walk\"",
+    "comment": "ok as order by a doctor, not as suggestion from a friend.\n\nVersion for suggestion:\n\nKambere syálábyá w’ eríbúnga\nKambere si-a-li-a-bi-a wa eri-bung-a\nKambere NEG-SM.c1-be-TM?-be-FV ASSOC INF-walk-FV\n\"Kambere shouldn't walk\" (suggestion by a friend version)"
+  },
+  {
+    "metadata": {
+      "created": "20200302194456007",
+      "creator": "Lydia",
+      "modified": "20200924202629078",
+      "modifier": "Lydia",
+      "tags": "[[i- (pfx)]] possibility epistemic [[-ti (C)]] anga contextData [[Kinande Q07",
+      "title": "KQ7 Context 19",
+      "tmap_id": "fb833e44-86c9-4841-8faf-f39b90fa2d10",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_19": "It’s evening time, and although Kabunga often goes out in the evenings, Kambere thinks that maybe Kabunga is at home right now",
+    "stanza": "Kambere thinks that Kabunga might be at home",
+    "translation": "Kámbére akálengekanaya ati Kábungá anganábyá ínia né ékâ\nKambere a-ka-lengekanay-a a-ti Kabunga a-anga-na-bi-a inia-ne eka\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-MOD-TM-be-FV ???-LOC home\n\"Kambere thinks that Kabunga might be at home\" (ok with “very probably” interpretation)\n\nKámbére akálengekanaya ati Kábungá anganáby’ ékâ\nKambere a-ka-lengekanay-a a-ti Kabunga a-anga-na-bi-a eka\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-MOD-TM-be-FV home\n\"Kambere thinks that Kabunga might be at home\""
+  },
+  {
+    "metadata": {
+      "created": "20200909153732370",
+      "creator": "Lydia",
+      "modified": "20220628215331737",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 09",
+      "tmap_id": "37ac41e3-d71c-4ad7-b0b9-cd0ad17dad2e",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_09": "You are at a bookstore looking for books that are interesting to you to read. The worker here is giving you recommendations. She picks up a book from a shelf that’s in German, but she says that it’s a very good book and you should get it if you can read German.",
+    "stanza": "If you can read this book, you should buy it today.",
+    "translation": "wamábyá íwanganásóm’ ekitábw’ ekí, kúmbé íwakígúlá munábwíre\nu-a-ma-bi-a i-u-anga-na-som-a e-kitabu eki, kumbe i-u-a-ki-gul-a munabwire\nSM.2sg-TM-TM-be-FV C-SM.2sg-MOD-TM-read-FV AUG-c7.kitabu c7.this, better.that C-SM.2sg-TM-Om.c7-buy-FV today\n\"If you can read this book, you should buy it today.\""
+  },
+  {
+    "metadata": {
+      "created": "20200225222731422",
+      "creator": "Lydia",
+      "modified": "20200924202603843",
+      "modifier": "Lydia",
+      "tags": "[[downward entailing]] contextData kumbe [[i- (pfx)]] -na- angana anga conditional [[weak necessity]] circumstantial possibility deontic [[Kinande Q06",
+      "title": "KQ6 Context 09",
+      "tmap_id": "2ef8ddcf-fd23-427b-827f-abdc8fa9b69e",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_9": "Kambale has been sick and you didn’t know whether he could play in the football game tomorrow in Butembo. But if he feels better, he ought to go there and play in the game, because his team is counting on him.",
+    "stanza": "If Kambale can play football tomorrow, he should go to Butembo",
+    "translation": "Kambale amábyá ínanganápíka oko mupíra kw’omúngyá, Kúmbe ínagénda eBútembo\nKambale a-ma-bi-a i-na-anga-na-pik-a oko mupira ku-omungya, kumbe i-na-gend-a e-Butembo\nKambale SM.c1-TM-be-FV C-SM.c1-MOD-TM-kick-FV LNK c3-ball c15-tomorrow , better.that C-SM.c1-go-FV c24-Butembo\n\"If Kambale can play football tomorrow, he should go to Butembo\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818144154343",
+      "creator": "Lydia",
+      "modified": "20200924202734439",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 09",
+      "tmap_id": "2d6dfaa5-befc-4a73-8b69-d97e03979f30",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_09": "You have been traveling around near your home, studying the plant life. In one place you arrive, not too far from home, you look around and think that perhaps you will find a Kinyamatsitsi plant growing nearby, because it’s prevalent around where you live and this is nearby.\n\n''Translate'': Kinyamatsitsi might grow here.\n\n''Phil'': ekinyámátsitsi kyangalasá hano (kweli)\ne-ki-nyamatsitsi ki-anga-las-a hano (kweli)\nAUG-c7-plant SM.c7-MOD-grow-FV here (true)\n\"Kinyamatsitsi might grow here.\"\n\nekinyámátsitsi kyanganálasá hano (#kweli)\ne-ki-nyamatsitsi ki-anga-na-las-a hano (#kweli)\nAUG-c7-plant SM.c7-MOD-TM-grow-FV here (#true)\n\"Kinyamatsitsi might grow here.\"\n\n        (Please note the -na- that I have introduced in the second sentence. In the first sentence, one could complete the sentence by: …hano kwéli  where kwélí means true and is a loanword from Swahili. I would not add  kweli in the second sentence because it is already rendered by the -na- particle."
+  },
+  {
+    "metadata": {
+      "created": "20200731211104461",
+      "creator": "Lydia",
+      "modified": "20200924202716086",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 19",
+      "tmap_id": "8bd1705d-c2aa-42b0-901f-4be983e4dd6f",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_19": "Swera is sick, and Kabunga is very worried. He calls the clinic and it turns out the doctor, who is usually very busy, actually has time to see her today. You advise Kabunga:",
+    "stanza": "omúganga amábya ínakándilwá inatunza Swerá yó munábwíre, ulwé umútwale oko lupitáli\no-muganga a-ma-bi-a i-na-kandi-lu-a i-na-tunz-a Swera yo munabwire, u-lu-e u-mu-twal-e oko lupitali\nAUG.c1-c1.doctor SM.c1-TM-be-FV C-TM?-TM-leave-FV C-TM-treat-FV Swera on today, SM.2sg-leave-SBJ SM.2sg-OM.c1-take-SBJ PREP c11.hospital\n\"If the doctor can see Swera today, take her to the hospital.\"\n\n''Phil: Yes. It is ok.''"
+  },
+  {
+    "metadata": {
+      "created": "20200731210356948",
+      "creator": "Lydia",
+      "modified": "20200924202715980",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 18",
+      "tmap_id": "7d712277-f1df-47ef-964d-e3e349f90526",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_18": "The schoolchildren are all supposed to read a book sometime this month. Some of the children were good and did their reading last week. Some of them haven’t done their reading yet, and so they still should read a book, so those children went to the market and bought one to read.",
+    "stanza": "óbulí mwana oyó wanganásómá, mwágúlire kitábú kígimá ky’omo sóko\nobuli mwana o-yo wa-anga-na-som-a mo-a-gul-ire kitabu ki-gima kyo omo soko\nevery c1.child AUG.c1-REL SM.c1-MOD-TM-read-FV TM-SM.c1-buy-TM c7.book c7-one c7.LNK at c5.market\n\"every child who should read a book bought one at the market\"",
+    "phil": "Yes.  (Notice that I have introduced a comma after wanganásómá and put a H on ná)\nAn alternative could be:\nóbulí mwana oyówabyá ínangásómá, mwágúlire kitábú kígimá ky’omo sóko\nobuli mwana o-yo wa-anga-a-som-a mo-a-gul-ire kitabu ki-gima kyo omo soko\nevery c1.child AUG.c1-REL SM.c1-MOD-TM-read-FV TM-SM.c1-buy-TM c7.book c7-one c7.LNK at c5.market"
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818151004412",
+      "creator": "Lydia",
+      "modified": "20200924202735576",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 20",
+      "tmap_id": "40564510-bf95-44e6-b515-950d4f4f6faa",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_20": "Your son always wants to sleep in and skip school. He says he’s tired. You tell him that it’s more important for him to go to school than for him to sleep later:",
+    "stanza": "Ókw’iwé, kumbe iwugenda oko kalhásí kúlaba erisib’ omongingó íwunágotsere\noku-iwe, kumbe i-u-gend-a oko kalhasi ku-laba e-ri-sib-a omo-gingo i-u-na-gotsere\nfor-2sg better.that C-SM.2sg-go-FV LNK class c15-pass AUG-c5-spend.much.time-FV c24-bed C-SM.2sg-TM-sleep\n\"For you, it is better for you to go to school than to stay in your bed sleeping\"",
+    "phil": "Ókw’iwé, útóleré íwagénda oko kalhásí kúlaba erisib’ omongingó íwunágótsere\noku-iwe, u-tolere i-u-a-gend-a oko kalhasi ku-laba e-ri-sib-a omo-ngingo i-u-na-gotsere\nfor-2sg SM.2sg-fit C-SM.2sg-TM-go-FV LNK class c15-pass AUG-c5-spend.much.time-FV c24-bed C-SM.2sg-TM-sleep\n\"As for you, you need to go to school more than to stay in bed while sleeping\"\n\n        Nyíb’ iwé, nangabéré ngagenda oko kalhásí ómwanyá w’ erisib’ omongingó ínyinágótsere\nnyi-bi-a iwe, n-anga-bi-ere nga-gend-a oko kalhasi o-mu-anya wa e-ri-sib-a omo-ngingo i-nyi-na-gotsere\n1sg-be-FV 2sg, SM.1sg-MOD-be-TM COMP-go-FV LNK class AUG-c1-instead ASSOC AUG-c5-spend.much.time-FV c24-bed C-SM.1sg-TM-sleep\n\"If I were you, I would be going to school instead of staying in bed while sleeping\"\n\n        Nyíb’ iwé, kúlabá w’ erisibá nyitya omongíngó, nangabéré ngay’ ekalhásí \nnyi-bi-a iwe, ku-laba wa e-ri-sib-a nyitya omo-ngingo, n-anga-bi-ere nga-y-a e-kalhasi\n1sg-be-FV 2sg, c15-pass ASSOC AUG-c5-spend.much.time-FV thus c24-bed, SM.1sg?-MOD-be-TM COMP-go-fv c24-class\n\"If I were you, more than staying thus in bed, I would be going to school\""
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818143832038",
+      "creator": "Lydia",
+      "modified": "20200924202734333",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 08",
+      "tmap_id": "286f7440-31d8-4a56-b9fc-b28aec54f5ad",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_08": "The market is close by, so taking a taxi or walking are both viable options to get there, especially on nice days.\n\n''Sentence'': #kumbe iwugénd’ omo bisandó eriy’ omo sóko\n\n''Phil'': útóleré íwagénd’ omo bisando eriy’ omo sóko\nu-tolere i-u-a-gend-a omo bisando e-ri-y-a omo soko\nSM.2sg-fit C-SM.2sg-TM-go-FV c24 feet AUG-c5-go-FV c24 market\n\"You should walk to go to the market.\"\n\nlítóleré íwagénd’ omo bisando eriy’ omo sóko ( omo bisándó, eriy’omosóko)\nli-tolere i-u-gend-a omo bisando e-ri-y-a omo soko\nc5-fit  C-SM.2sg-TM-go-FV c24 feet AUG-c5-go-FV c24 market\n\"You should walk to go to the market\"\n\n        (The infinitive eritoléra literally means to fit. However, we translate it as you should)"
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818150451456",
+      "creator": "Lydia",
+      "modified": "20200924202735362",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 18",
+      "tmap_id": "a89832a6-ef7d-418f-8d82-421768799f63",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_18": "Kabunga has been sick and stuck at home for weeks. As a result, he hasn’t been able to go visit friends or do anything fun. Now he’s feeling a little better, and he can leave the house once in a while, but not very often.",
+    "stanza": "Kabunga is now more able to go visit his friends.",
+    "translation": "Kábunga ámâbításyábya mundú w’ eriyában’ ábira b’ iwe\nKabunga a-ma-bi-ta-sya-bi-a mundu wa e-ri-ya-ban-a a-bira ba iwe\nKabunga SM.c1-TM-TM-TM-TM-be-FV c1.person c1.ASSOC AUG-c5-go-visit-FV AUG-c2.friend c2.ASSOC his\n\"Kabunga has become again a person to go and visit his friends\"\n\nKábunga ámásalá w’ erításyábyá w’ eriyátsangá n’ ábira b’ iwe\nKabunga a-ma-sal-a wa e-ri-ta-sya-bi-a wa e-ri-ya-tsang-a na a-bira ba iwe\nKabunga SM.c1-TM-vomit-FV c1.ASSOC AUG-c5-TM-TM-be-FV c1.ASSOC AUG-c5-go-play-FV with AUG-c2.friend c2.ASSOC his\n\"Kabunga has now become able to go and play with his friends.\"",
+    "consultant_note": "Note that erísála literally means to vomit. But it is used as an auxiliary in Kinande."
+  },
+  {
+    "metadata": {
+      "created": "20200731195833200",
+      "creator": "Lydia",
+      "modified": "20200924202707892",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 08",
+      "tmap_id": "3a377214-1938-4f62-a39a-86c520e0bd52",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_08": "No context",
+    "stanza": "Kambere is taller than Kabunga.",
+    "translation": "Kábunga ni múli okó Kábunga\nKabunga ni muli oko Kabunga\nKabunga COP tall LNK Kabunga\n\"Kabunga is taller than Kabunga\""
+  },
+  {
+    "metadata": {
+      "created": "20200731200252068",
+      "creator": "Lydia",
+      "modified": "20200924202707985",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q08",
+      "title": "KQ8 Context 09",
+      "tmap_id": "bda2b2e0-4f75-4c0d-9cd8-a3d4df4fa837",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "sentence_09": "It is better for you to go school than for you to sleep late.",
+    "translation": "Lítóleré íwagenda oko kalhásí ómwanyá w’erisib’omongingó íwunágótsere\nli-tolere i-u-a-gend-a oko kalhasi o-mu-anya wa e-ri-si-bi-a omo-ngingo i-u-na-gotsere\nc5-fit C-SM.3sg-TM-go-FV LNK class AUG-c1-instead ASSOC AUG-c5-TM-be-FV AUG-c18-bed C-SM.2sg-TM-sleep\n\"It is better that you go to school instead of staying in bed while you are sleeping.\"\n\nÓkw’iwé, ryowéne okw’igenda oko kalhásí kúlaba erisib’omongingó íwunágotsere\nOku-iwe, ri-owene oku-i-gend-a oko kalhasi ku-laba e-ri-sib-a omo-gingo i-u-na-gotsere\nLNK-2sg, c5-good LNK.2sg-c5-go-FV LNK class c15-pass AUG-c5-spend.much.time c24-bed C-SM.2sg-TM-sleep\n\"For you, it is better to go go to school more than to stay in bed sleeping.\"",
+    "consultant_note": "kúlaba means more. It is probably the verb erílába ‘to pass’. Kúlaba is probably a vestige  of the use of ku- as the verb class prefix in other Bantu languages. Kinande has eri- and not ku- (erílába to pass  = kupíta (in Swahili))"
+  },
+  {
+    "metadata": {
+      "_is_skinny": "",
+      "created": "20200818150721997",
+      "creator": "Lydia",
+      "modified": "20200924202735478",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q09",
+      "title": "KQ9 Context 19",
+      "tmap_id": "2e01fd7a-7e0e-49e1-8ca6-484d6169fcea",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_19": "We’ve been in dry weather for months, and the weatherman for a while has said there’s no chance of rain anytime soon. Today the weather report finally said that there’s a better possibility of rain next week than we’ve seen in a long time. It’s not very likely, but it’s a little more likely.",
+    "stanza": "It’s now more possible that it will rain soon.\n\n''Translation'': émbulá yámábya lérhó ngayikinásíg’ íyáwa \nembula yi-a-ma-bi-a lerho nga-yi-ki-na-sig-a i-yi-a-w-a\nc9.rain SM.c9-TM-TM-be-FV this.time COMP-SM.c9-TM-TM-be.about.to-FV C-SM.c9-TM-TM-rain-FV\n\"The rain looks like that, this time, it is likely to rain\"\n\nObútukú bwámásosá émbulá ngayikísígá íyáwa léro\no-bu-tuku bu-a-ma-sos-a embula nga-yi-ki-sig-a i-yi-a-w-a lero\nAUG-c14-weather SM.c14-TM-TM-seem-FV c9.rain COMP-SM.c9-TM-be.about.to-FV C-SM.c9-TM-rain-FV\n\"The weather seems as if rain is about to rain this-time\""
+  },
+  {
+    "metadata": {
+      "created": "20200909161825477",
+      "creator": "Lydia",
+      "modified": "20200921145501307",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 19",
+      "tmap_id": "3cd22b66-301f-4405-a05f-0c2e7ea1accd",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_19": "You are telling me about your day.",
+    "stanza": "Today, I went to the store and bought mangoes.",
+    "translation": "munábwíré, móngágend’ esókó nagula amamángues\nmunabwire, mo-ng-a-gend-a e-soko na-gul-a a-ma-mangues\ntoday, TM-SM.1sg-TM-go-FV c24-market and-buy-FV AUG-c6-mango\n\"Today I went to the market and bought mangoes.\"\n\nMóngátsinduk’ esókó munábwíré ngayagula oko mamángues\nMo-ng-a-tsinduk-a e-soko munabwire nga-ya-gul-a oko ma-mangues\nTM-SM.1sg-TM-go.early.FV c24-market today SM.2sg-TM-buy-FV PREP c6-mango\n\"I went early to the market today as I-went-to-buy mangoes\""
+  },
+  {
+    "metadata": {
+      "created": "20200302200248853",
+      "creator": "Lydia",
+      "modified": "20200924202635226",
+      "modifier": "Lydia",
+      "tags": "[[relative clause]] -na- angana anga [[-ti (C)]] [[embedded clause]] [[weak necessity]] epistemic contextData [[Kinande Q07",
+      "title": "KQ7 Context 21",
+      "tmap_id": "2e480fae-2dd8-47bd-b0d8-5db87aa57f97",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_21": "It’s around 10pm, and Kambere knows that usually Kabunga is at home by this time of night.",
+    "stanza": "Kambere thinks that Kabunga ought to be at home",
+    "translation": "Kámbére akálengekanaya ati Kábunga ámabíbyá w’ eríbya éka (lino)\nKambere a-ka-lengekanay-a a-ti Kabunga a-ma-bi-bi-a wa eri-bi-a eka (lino)\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-TM-TM-be-FV ASSOC? INF-be-FV home (now)\n\"Kambere thinks that Kabunga is already be at home (now)\"\n\n\nKámbére akálengekanaya ati Kábunga ámábyá w’ eríbya éká lino\nKambere a-ka-lengekanay-a a-ti Kabunga a-ma-bi-a wa eri-bi-a eka lino\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-TM-be-FV ASSOC? INF-be-FV home now\n\"Kambere thinks that Kabunga is at home now\"",
+    "consultant_comment": "note that lino is oblig here but not with the bi- prefix on the verb\n\n\nKámbére akálengekanaya ati Kábungá anganábyá ínia né ékâ\nKambere a-ka-lengekanay-a a-ti Kabunga a-anga-na-bi-a inia-ne eka\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-MOD-TM-be-FV ???-LOC home\n\"Kambere thinks that Kabunga might (very probably) be at home\"\n\n\n\n#Kámbére akálengekanaya ati Kábungá anganáby’ ékâ\nKambere a-ka-lengekanay-a a-ti Kabunga a-anga-na-bi-a eka\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-MOD-TM-be-FV home\n\"Kambere thinks that Kabunga might be at home\""
+  },
+  {
+    "metadata": {
+      "created": "20200302162016130",
+      "creator": "Lydia",
+      "modified": "20200924202622863",
+      "modifier": "Lydia",
+      "tags": "circumstantial [[weak necessity]] contextData ndi [[i- (pfx)]] [[downward entailing]] conditional erilwe [[-e (sfx)]] angana anga [[Kinande Q07",
+      "title": "KQ7 Context 09",
+      "tmap_id": "bf201f95-be88-4401-9729-51f6f274f43d",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "contex_9": "Swera is sick, and Kabunga is very worried. He calls the clinic and describes her symptoms to the doctor, who says that he should see her today, because she might be much worse tomorrow. So you advise Kabunga:",
+    "stanza": "If the doctor should see Swera today, go to the clinic right away.\n\nTRANSLATION:\n\nomúganga amábya ínakándilwá inatunza Swerá yó munábwíre, ulwé umútwale oko lupitáli\no-muganga a-ma-bi-a i-na-kandi-lu-a i-na-tunz-a Swera yo munabwire, u-lu-e u-mu-twal-e oko lupitali\nAUG.c1-c1.doctor SM.c1-TM-be-FV C-TM?-TM-leave-FV C-TM-treat-FV Swera on today, SM.2sg-leave-SBJ SM.2sg-OM.c1-take-SBJ PREP c11.hospital\n\"If the doctor should see Swera today, take her to the hospital\"\n\n#omúnganga amábyá ínanganátunza Swerá, ulwé úmútwale oko lupitáli\no-munganga a-ma-bi-a i-na-anga-na-tunz-a Swera, u-lu-e u-mu-twal-e oko lupitali\nAUG.c1-c1.doctor SM.c1-TM-be-FV C-???-MOD-TM-treat-FV Swera, SM.2sg-leave-SBJ SM.2sg-OM.c1-take-SBJ PREP c.11-hospital\n\"if the doctor can treat Swera, take her to the hospital\""
+  },
+  {
+    "metadata": {
+      "created": "20200924204759033",
+      "creator": "Lydia",
+      "modified": "20200924204844960",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 09",
+      "tmap_id": "13b06c50-e512-4081-aa1d-48256a7f4f20",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_09": "As a group, you are working out who will bring which dish to a party. Swera isn’t here for this planning meeting, but she said that you could assign her whichever dish you think best, so long as it’s one she can actually cook. Kambere suggests that maybe Swera should bring the ekihembe, but you know she can’t cook ekihembe, so that’s a bad idea. You say…",
+    "stanza": "Swera can’t cook the ekihembe, she will have to cook something else.",
+    "translation": "Swera syási eríhuk’ekihémbê. Álwe mundú w’eríhuk’ékindi kíndu"
+  },
+  {
+    "metadata": {
+      "created": "20200924204422141",
+      "creator": "Lydia",
+      "modified": "20200924204626914",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q11",
+      "title": "KQ11 Context 08",
+      "tmap_id": "f25e5b42-13e7-4cf5-b9c6-c69987ffa6a8",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_08": "You and Masika came up with a class plan for which student should read which book. After talking it over, she wrote out the class reading assignments. When you look over the list, you see that she accidentally assigned Swera’s book to Kabunga. You correct her, saying:",
+    "stanza": "Kabunga doesn’t have to read this book, Swera is the one who has to read it.",
+    "translation": "Kábunga siyómundú w’erisom’ekitábw’eki. Swera yo mundú oyúnapásw’erikisóma\n\n...Swera yo mundú w’erikisóma"
+  },
+  {
+    "metadata": {
+      "created": "20200302161251147",
+      "creator": "Lydia",
+      "modified": "20200924202622595",
+      "modifier": "Lydia",
+      "tags": "circumstantial possibility Hazel contextData [[i- (pfx)]] [[-e (sfx)]] [[downward entailing]] conditional angana anga erilwe [[Kinande Q07",
+      "title": "KQ7 Context 08",
+      "tmap_id": "91d829fd-25ff-405e-aa05-8b9a21c74a55",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_8": "Swera is sick, and Kabunga is very worried. He calls the clinic and it turns out the doctor, who is usually very busy, actually has time to see her today. You advise Kabunga:",
+    "stanza": "If the doctor can see Swera today, go to the clinic right away.",
+    "translation": "omúnganga amábyá ínanganátunza Swerá, ulwé úmútwale oko lupitáli\no-munganga a-ma-bi-a i-na-anga-na-tunz-a Swera, u-lu-e u-mu-twal-e oko lupitali\nAUG.c1-c1.doctor SM.c1-TM-be-FV C-SM.c1-MOD-TM-treat-FV Swera, SM.2sg-leave-SBJ SM.2sg-OM.c1-take-SBJ PREP c.11-hospital\n\"if the doctor can treat Swera, take her to the hospital\"",
+    "note": "no pressure situation; this sentence # in next context"
+  },
+  {
+    "metadata": {
+      "created": "20200302195720547",
+      "creator": "Lydia",
+      "modified": "20200924202634175",
+      "modifier": "Lydia",
+      "tags": "[[embedded clause]] eripaswa [[-ti (C)]] [[strong necessity]] epistemic contextData [[Kinande Q07",
+      "title": "KQ7 Context 20",
+      "tmap_id": "bdf56ea4-a5f0-4b58-96d8-e746d459fb6f",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_20": "Kambere passed by Kabunga’s house and saw that the lights are on, and there are smells of food cooking coming from the house.",
+    "stanza": "Kambere thinks that Kabunga must be at home",
+    "translation": "Kámbére akálengekanaya ati Kábunga anapáswa eríby’ éka\nKambere a-ka-lengekanay-a a-ti Kabunga a-na-pasw-a eri-bi-a eka\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-TM-must-FV INF-be-FV home\n\"Kambere thinks that Kabunga must be at home\"",
+    "consultant_comment": "this is ok but more natural is:\n\nKámbére akálengekanaya ati Kábunga ané éka\nKambere a-ka-lengekanay-a a-ti Kabunga a-ne eka\nKambere SM.c1-TM-think-FV SM.c1-that Kabunga SM.c1-COP-LOC home\n\"Kambere thinks that Kabunga is at home\""
+  },
+  {
+    "metadata": {
+      "created": "20200909161521132",
+      "creator": "Lydia",
+      "modified": "20200921144331545",
+      "modifier": "Lydia",
+      "tags": "[[Kinande Q10",
+      "title": "KQ 10 Context 18",
+      "tmap_id": "c08a8c4b-7473-4915-b7e8-75026d2dbfd7",
+      "type": "text/vnd.tiddlywiki"
+    },
+    "context_18": "Swera is just learning how to ride a motor bike. She just started one month ago. Her friend tells her that:",
+    "stanza": "#kúmbe Swera ínabyá ákagendyá bolóbólo kúlaba ínabyá ákagendyá dáredáre.\nkumbe swera i-na-bi-a a-ka-gend-i-a bolobolo ku-laba i-na-bi-a a-ka-gend-i-a daredare\nbetter.that Swera C-SM.c1-be-FV SM.c1-TM-go-TV-FV slowly c15-pass C-SM.c1-be-FV SM.c1-TM-go-TV-FV quickly\n\"It is better for Swera to be driving slowly than for her to be driving quickly.\"",
+    "phil": "kúmbe Swerá ínayíbégérya erigendy’ omútoká bolóbóló kúlabá w’ eríbyá ákagendyágó lubálúba.\nkumbe Swera i-na-yi-beger-i-a e-ri-gend-i-a o-mu-toka bolobolo ku-laba wa e-ri-bi-a a-ka-gend-i-a-go lubaluba\nbetter.that Swera C-SM.c1-RFM-get.used.to-TV-FV AUG-c5-go-TV-FV AUG-c3-car slowly c15-pass ASSOC AUG-c5-be-FV SM.c1-TM-go-TV-FV-PRN.c3 quickly\n\"It is better for Swera to get herself used to driving slowly than to drive quickly.\""
+  }
+]
