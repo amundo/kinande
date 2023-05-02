@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "parse": "deno run --allow-write --allow-read parse-all.js"
+  }
+}
