@@ -1,30 +1,37 @@
+
+
+let isIdentifier = line => (/(''[^']+: *'')/g).test(line)
+
+
+let ngrams = (sequence, n) => sequence
+  .slice(0, sequence.length - n + 1)
+  .map((x,i) => sequence.slice(i, i+n))
+
+let bigrams = sequence => ngrams(sequence, 2)
+
+
+
 export function transformPlainText(plainText) {
-  const entry = {}
+  plainText = plainText
+    .replaceAll(`<br />`, '')
+    .replaceAll(`<br>`, '')
+    .replaceAll(`<nowiki>`,``)
+    .replaceAll(`</nowiki>`,``)
+  plainText = `''metadata: ''` + plainText
+  let fieldRE = /(''[^']+: *'')/g
 
-  // split the plain text string into an array of lines
-  const lines = plainText.trim().split("\n")
+  let lines = plainText.split(fieldRE)
+  let pairs = bigrams(lines)
+    .filter(([a,b]) => a.startsWith(`''`))
+    .map(([a,b]) => [
+      a.replaceAll(`''`, '').replaceAll(':','').trim().toLowerCase().replaceAll(" ", "_"),
+      b.trim()
+    ])
+    .reduce((entry, [key,value]) => {
+      entry[key] = value
+      return entry
+    }, {})
 
-  // extract the metadata and add it to the object
-  const metadata = lines.slice(0, lines.indexOf("")).join("\n")
-  entry.metadata = metadata
-
-  // loop through the remaining lines and extract the fields
-  let currentField = ""
-  for (let i = 1; i < lines.length; i++) {
-    const line = lines[i]
-
-    // check if the line is a field label
-    if (line.trim().match(/^''/)) {
-      currentField = line.split(`''`)[1].trim().slice(0, -1)
-    } else {
-      // append the line to the current field value
-      if (!entry[currentField]) {
-        entry[currentField] = line
-      } else {
-        entry[currentField] += "\n" + line
-      }
-    }
-  }
-
-  return entry
+  return pairs
 }
+
